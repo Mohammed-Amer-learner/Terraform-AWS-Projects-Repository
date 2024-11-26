@@ -73,7 +73,7 @@ user_pref("distribution.iniFile.exists.appversion", "129.0.2");
 user_pref("distribution.iniFile.exists.value", true);
 user_pref("doh-rollout.doneFirstRun", true);
 user_pref("doh-rollout.home-region", "IN");
-user_pref("dom.push.userAgentID", "f14907ab04d9418a8466a3df6f770207");
+user_pref("dom.push.userAgentID", "e928094452824ca1b5a46dacc0641bb3");
 user_pref("extensions.activeThemeID", "default-theme@mozilla.org");
 user_pref("extensions.blocklist.pingCountVersion", 0);
 user_pref("extensions.databaseSchema", 36);
@@ -119,7 +119,7 @@ user_pref("privacy.sanitize.pending", "[{\"id\":\"newtab-container\",\"itemsToCl
 user_pref("security.sandbox.content.tempDirSuffix", "387305cb-2ae6-4fe9-b459-c714930f12ec");
 user_pref("services.settings.blocklists.addons-bloomfilters.last_check", 1732634017);
 user_pref("services.settings.blocklists.gfx.last_check", 1732634017);
-user_pref("services.settings.clock_skew_seconds", 0);
+user_pref("services.settings.clock_skew_seconds", 623);
 user_pref("services.settings.last_etag", "\"1732633214443\"");
 user_pref("services.settings.last_update_seconds", 1732637130);
 user_pref("services.settings.main.addons-manager-settings.last_check", 1732634017);

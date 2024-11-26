@@ -163,3 +163,19 @@ exit
 rm -rf calculator.sh
 ls
 clear
+vim calculator.sh
+cat calculator.sh
+git init
+vim calculator.sh
+cat calculator.sh
+git diff
+clear
+ls -la
+clear
+man git
+clear
+git add .
+y = a-b
+clear
+q!
+exit
