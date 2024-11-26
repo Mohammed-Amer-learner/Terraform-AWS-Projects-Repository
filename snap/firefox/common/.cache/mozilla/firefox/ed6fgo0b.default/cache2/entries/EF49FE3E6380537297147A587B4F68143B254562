@@ -1,0 +1,1479 @@
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+
+<html class="windows no-js" lang="en" dir="ltr" data-country-code="IN" data-needs-consent="False" data-latest-firefox="132.0.2" data-esr-versions="128.4.0" data-gtm-container-id="GTM-MW3R8V" data-stub-attribution-rate="1.0" data-sentry-dsn="https://c3ab8514873549d5b3785ebc7fb83c80@o1069899.ingest.sentry.io/6260331"  data-cj-affiliate-endpoint="https://cjms.services.mozilla.com/aic">
+  <head>
+    <meta charset="utf-8">
+
+    <!--[if !IE]><!-->
+    <script src="https://www.mozilla.org/media/js/site.b49d941e3374.js"></script>
+
+    
+    <!--<![endif]-->
+
+    <!--[if IE 9]>
+    <script src="https://www.mozilla.org/media/js/site-ie.c7db1be2702b.js"></script>
+    <![endif]-->
+
+<!--
+
+
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
+
+Hi there, nice to meet you!
+
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
+
+Visit https://www.mozilla.org/careers to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.
+-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+    
+    <title>Get Mozilla VPN  — Mozilla (US)</title>
+    <meta name="description" content="Use Mozilla VPN for full-device protection for all apps. With servers in 57+ countries, you can connect to anywhere, from anywhere.">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Mozilla">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.mozilla.org/en-US/products/vpn/">
+    <meta property="og:image" content="https://www.mozilla.org/media/img/products/vpn/common/social-share.fd20884beaac.png">
+    <meta property="og:title" content="Get Mozilla VPN  — Mozilla (US)">
+    <meta property="og:description" content="Use Mozilla VPN for full-device protection for all apps. With servers in 57+ countries, you can connect to anywhere, from anywhere.">
+    <meta property="fb:page_id" content="262134952380">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@mozilla">
+    <meta name="twitter:domain" content="mozilla.org">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <meta name="twitter:app:name:iphone" content="Firefox">
+    <meta name="twitter:app:id:iphone" content="989804926">
+    <meta name="twitter:app:name:ipad" content="Firefox">
+    <meta name="twitter:app:id:ipad" content="989804926">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://www.mozilla.org/media/img/favicons/vpn/favicon.0f364a6c97eb.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="https://www.mozilla.org/media/img/favicons/vpn/favicon.0f364a6c97eb.png">
+    <link rel="shortcut icon" href="https://www.mozilla.org/media/img/favicons/vpn/favicon.d2f92064332e.ico">
+    <link rel="canonical" href="https://www.mozilla.org/en-US/products/vpn/">
+    
+    <link rel="alternate" hreflang="ar" href="https://www.mozilla.org/ar/products/vpn/" title="عربي">
+        <link rel="alternate" hreflang="be" href="https://www.mozilla.org/be/products/vpn/" title="Беларуская">
+        <link rel="alternate" hreflang="bs" href="https://www.mozilla.org/bs/products/vpn/" title="Bosanski">
+        <link rel="alternate" hreflang="cs" href="https://www.mozilla.org/cs/products/vpn/" title="Čeština">
+        <link rel="alternate" hreflang="cy" href="https://www.mozilla.org/cy/products/vpn/" title="Cymraeg">
+        <link rel="alternate" hreflang="de" href="https://www.mozilla.org/de/products/vpn/" title="Deutsch">
+        <link rel="alternate" hreflang="el" href="https://www.mozilla.org/el/products/vpn/" title="Ελληνικά">
+        <link rel="alternate" hreflang="en-CA" href="https://www.mozilla.org/en-CA/products/vpn/" title="English (Canadian)">
+        <link rel="alternate" hreflang="en-GB" href="https://www.mozilla.org/en-GB/products/vpn/" title="English (British)">
+        <link rel="alternate" hreflang="en" href="https://www.mozilla.org/en-US/products/vpn/" title="English">
+        <link rel="alternate" hreflang="en-US" href="https://www.mozilla.org/en-US/products/vpn/" title="English (USA)">
+        <link rel="alternate" hreflang="es-AR" href="https://www.mozilla.org/es-AR/products/vpn/" title="Español (de Argentina)">
+        <link rel="alternate" hreflang="es-CL" href="https://www.mozilla.org/es-CL/products/vpn/" title="Español (de Chile)">
+        <link rel="alternate" hreflang="es" href="https://www.mozilla.org/es-ES/products/vpn/" title="Español">
+        <link rel="alternate" hreflang="es-ES" href="https://www.mozilla.org/es-ES/products/vpn/" title="Español (de España)">
+        <link rel="alternate" hreflang="fr" href="https://www.mozilla.org/fr/products/vpn/" title="Français">
+        <link rel="alternate" hreflang="fy" href="https://www.mozilla.org/fy-NL/products/vpn/" title="Frysk">
+        <link rel="alternate" hreflang="fy-NL" href="https://www.mozilla.org/fy-NL/products/vpn/" title="Frysk">
+        <link rel="alternate" hreflang="gn" href="https://www.mozilla.org/gn/products/vpn/" title="Avañe'ẽ">
+        <link rel="alternate" hreflang="hi" href="https://www.mozilla.org/hi-IN/products/vpn/" title="हिन्दी">
+        <link rel="alternate" hreflang="hi-IN" href="https://www.mozilla.org/hi-IN/products/vpn/" title="हिन्दी (भारत)">
+        <link rel="alternate" hreflang="hr" href="https://www.mozilla.org/hr/products/vpn/" title="Hrvatski">
+        <link rel="alternate" hreflang="hu" href="https://www.mozilla.org/hu/products/vpn/" title="magyar">
+        <link rel="alternate" hreflang="ia" href="https://www.mozilla.org/ia/products/vpn/" title="Interlingua">
+        <link rel="alternate" hreflang="id" href="https://www.mozilla.org/id/products/vpn/" title="Bahasa Indonesia">
+        <link rel="alternate" hreflang="it" href="https://www.mozilla.org/it/products/vpn/" title="Italiano">
+        <link rel="alternate" hreflang="ja" href="https://www.mozilla.org/ja/products/vpn/" title="日本語">
+        <link rel="alternate" hreflang="ka" href="https://www.mozilla.org/ka/products/vpn/" title="ქართული">
+        <link rel="alternate" hreflang="ko" href="https://www.mozilla.org/ko/products/vpn/" title="한국어">
+        <link rel="alternate" hreflang="ms" href="https://www.mozilla.org/ms/products/vpn/" title="Melayu">
+        <link rel="alternate" hreflang="nl" href="https://www.mozilla.org/nl/products/vpn/" title="Nederlands">
+        <link rel="alternate" hreflang="pa" href="https://www.mozilla.org/pa-IN/products/vpn/" title="ਪੰਜਾਬੀ">
+        <link rel="alternate" hreflang="pa-IN" href="https://www.mozilla.org/pa-IN/products/vpn/" title="ਪੰਜਾਬੀ (ਭਾਰਤ)">
+        <link rel="alternate" hreflang="pt-BR" href="https://www.mozilla.org/pt-BR/products/vpn/" title="Português (do Brasil)">
+        <link rel="alternate" hreflang="pt" href="https://www.mozilla.org/pt-PT/products/vpn/" title="Português">
+        <link rel="alternate" hreflang="pt-PT" href="https://www.mozilla.org/pt-PT/products/vpn/" title="Português (Europeu)">
+        <link rel="alternate" hreflang="rm" href="https://www.mozilla.org/rm/products/vpn/" title="rumantsch">
+        <link rel="alternate" hreflang="ru" href="https://www.mozilla.org/ru/products/vpn/" title="Русский">
+        <link rel="alternate" hreflang="sk" href="https://www.mozilla.org/sk/products/vpn/" title="slovenčina">
+        <link rel="alternate" hreflang="sl" href="https://www.mozilla.org/sl/products/vpn/" title="Slovenščina">
+        <link rel="alternate" hreflang="sq" href="https://www.mozilla.org/sq/products/vpn/" title="Shqip">
+        <link rel="alternate" hreflang="sr" href="https://www.mozilla.org/sr/products/vpn/" title="Српски">
+        <link rel="alternate" hreflang="sv" href="https://www.mozilla.org/sv-SE/products/vpn/" title="Svenska">
+        <link rel="alternate" hreflang="sv-SE" href="https://www.mozilla.org/sv-SE/products/vpn/" title="Svenska">
+        <link rel="alternate" hreflang="tr" href="https://www.mozilla.org/tr/products/vpn/" title="Türkçe">
+        <link rel="alternate" hreflang="uk" href="https://www.mozilla.org/uk/products/vpn/" title="Українська">
+        <link rel="alternate" hreflang="vi" href="https://www.mozilla.org/vi/products/vpn/" title="Tiếng Việt">
+        <link rel="alternate" hreflang="zh" href="https://www.mozilla.org/zh-CN/products/vpn/" title="中文">
+        <link rel="alternate" hreflang="zh-CN" href="https://www.mozilla.org/zh-CN/products/vpn/" title="中文 (简体)">
+        <link rel="alternate" hreflang="zh-TW" href="https://www.mozilla.org/zh-TW/products/vpn/" title="正體中文 (繁體)">
+        
+    
+    
+    <link href="https://mastodon.social/@mozilla" rel="me">
+
+    
+
+    <!--[if lt IE 9]>
+      
+      <script src="https://www.mozilla.org/media/js/ie/libs/html5shiv.a94a0b700fa2.js"></script>
+    <![endif]-->
+
+    <!--[if IE]>
+      
+      
+        <link href="https://www.mozilla.org/media/css/common-old-ie.395b7c08279e.css" rel="stylesheet" type="text/css">
+      
+    <![endif]-->
+
+    <!--[if !IE]><!-->
+    
+    
+  
+    <link href="https://www.mozilla.org/media/css/protocol-mozilla.fb75279fb388.css" rel="stylesheet" type="text/css">
+  
+
+
+    
+    
+  <link href="https://www.mozilla.org/media/css/protocol-split.b2c741eb3ef3.css" rel="stylesheet" type="text/css">
+  <link href="https://www.mozilla.org/media/css/protocol-picto.cfee40a3cd36.css" rel="stylesheet" type="text/css">
+  <link href="https://www.mozilla.org/media/css/mozilla-vpn-common-refresh.9b6783cf3507.css" rel="stylesheet" type="text/css">
+  <link href="https://www.mozilla.org/media/css/mozilla-vpn-landing-refresh.68d7a5bb4699.css" rel="stylesheet" type="text/css">
+
+    <!--<![endif]-->
+
+    
+      
+    
+
+    
+    
+      
+
+<!--
+Read more about our custom configuration and use of Google Analytics here:
+https://bugzilla.mozilla.org/show_bug.cgi?id=1122305#c8
+-->
+
+<!-- Google Tag Manager -->
+<!-- Customized for Mozilla.org-->
+<!-- Region Container: NONE -->
+<!-- Rollup Container: System Filtered -->
+<!-- Site Container: NONE -->
+
+
+    <script src="https://www.mozilla.org/media/js/gtm-snippet.b5b7c885f8fa.js"></script>
+
+<!-- End Google Tag Manager -->
+    
+  </head>
+
+  <body id="mozilla-vpn-landing" class="html-ltr mzp-t-mozilla" >
+    <div id="strings"
+      data-global-close="Close"
+      data-global-next="Next"
+      data-global-previous="Previous"
+      ></div>
+
+    
+      
+
+<aside class="moz-consent-banner" id="moz-consent-banner" role="region" aria-label="Cookie Banner" data-nosnippet="true" data-testid="consent-banner">
+  <div class="moz-consent-banner-content">
+    <h2 class="moz-consent-banner-heading">Help us improve your Mozilla experience</h2>
+    <div class="moz-consent-banner-copy">
+      <p>In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy.</p>
+      <div class="moz-consent-banner-controls">
+        <button type="button" id="moz-consent-banner-button-accept" class="moz-consent-banner-button moz-consent-banner-button-accept" data-testid="consent-banner-accept-button">
+          Accept All Additional Cookies
+        </button>
+        <button type="button" id="moz-consent-banner-button-reject" class="moz-consent-banner-button moz-consent-banner-button-reject" data-testid="consent-banner-reject-button">
+          Reject All Additional Cookies
+        </button>
+        <a href="/en-US/privacy/websites/cookie-settings/">
+          Cookie settings
+        </a>
+      </div>
+    </div>
+  </div>
+</aside>
+    
+
+    
+  
+    
+
+
+  
+  
+    
+  
+
+  <div class="c-navigation top-header-navigation mzp-is-sticky">
+    <div class="c-navigation-l-content">
+      <div class="c-navigation-container">
+        <button class="c-navigation-menu-button" type="button" aria-controls="c-navigation-items" data-testid="navigation-menu-button">Menu</button>
+        <div class="c-navigation-logo">
+          <a href="/en-US/" data-link-text="mozilla home icon" data-link-position="nav">
+          
+            <img class="c-navigation-logo-image" src="https://www.mozilla.org/media/protocol/img/logos/mozilla/logo-word-hor.e20791bb4dd4.svg" alt="Mozilla" width="112" height="32">
+          
+          </a>
+        </div>
+
+        <div class="c-navigation-items" id="c-navigation-items" data-testid="navigation-menu-items">
+          
+
+
+  <div class="c-navigation-shoulder">
+    
+      <div class="vpn-nav-cta">
+    
+      
+      <a class="mzp-c-button mzp-t-secondary mzp-t-product mzp-t-md" href="#pricing" data-cta-text="Get Mozilla VPN" data-cta-position="navigation" data-testid="get-mozilla-vpn-nav-button">
+        Get Mozilla VPN
+      </a>
+    
+  </div>
+    
+  </div>
+
+          <div class="c-navigation-menu">
+            <nav class="c-menu mzp-is-basic">
+              <ul class="c-menu-category-list">
+                
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="/en-US/firefox/" aria-haspopup="true" aria-controls="c-menu-panel-firefox" data-testid="navigation-link-firefox">Firefox Browsers</a>
+  <div class="c-menu-panel" id="c-menu-panel-firefox">
+    <div class="c-menu-panel-container" data-testid="navigation-menu-firefox">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-firefox">Close Firefox Browsers menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-three">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/new/" data-link-text="Firefox Desktop Browser" data-link-position="topnav - firefox" data-testid="navigation-menu-link-firefox-desktop">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Firefox for Desktop</h4>
+                <p class="c-menu-item-desc">Get the not-for-profit-backed browser on Windows, Mac or Linux.</p>
+              </a>
+            </section>
+          </li>
+        
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/browsers/mobile/android/" data-link-text="Firefox for Android" data-link-position="topnav - firefox">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Firefox for Android</h4>
+                <p class="c-menu-item-desc">Get the customizable mobile browser for Android smartphones.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/browsers/mobile/ios/" data-link-text="Firefox for iOS" data-link-position="topnav - firefox">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.eb1324e44442.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Firefox for iOS</h4>
+                <p class="c-menu-item-desc">Get the mobile browser for your iPhone or iPad.</p>
+              </a>
+            </section>
+          </li>
+        
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/browsers/mobile/focus/" data-link-text="Firefox Focus" data-link-position="topnav - firefox">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/focus/logo.aac3e33175cb.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Firefox Focus</h4>
+                <p class="c-menu-item-desc">Simply private mobile browsing.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://blog.mozilla.org/firefox/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=firefox" data-link-text="Firefox Blog" data-link-position="topnav - firefox">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M21.1 7.5c-.2-.2-.2-.5 0-.7l.5-.5c.8-.8 2.1-.8 2.9 0l1.2 1.2c.8.8.8 2.1 0 2.9l-.5.5c-.2.2-.5.2-.7 0l-3.4-3.4zm2.3 4.5c.2.2.2.5 0 .7L12.7 23.4c-.2.2-.4.3-.6.4l-5.7 2.4c-.3.1-.6 0-.7-.3-.1-.1-.1-.3 0-.4L8.1 20c.1-.2.3-.5.4-.6L19.2 8.6c.2-.2.5-.2.7 0l3.5 3.4zM11.5 22.7l-3.9 1.7 1.7-3.9c0-.1.1-.2.2-.2l2.3 2.3c-.1 0-.2.1-.3.1z"></path></svg>
+                <h4 class="c-menu-item-title">Firefox Blog</h4>
+                <p class="c-menu-item-desc">Read about new Firefox features and ways to stay safe online.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/firefox/132.0.2/releasenotes/" data-link-text="Release Notes" data-link-position="topnav - firefox">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M2.7 23.6c0 2.4 2 4.4 4.4 4.4h5.6c1.4 0 2.3.5 3.3 1.5 1-1 2-1.5 3.3-1.5h5.6c2.4 0 4.4-2 4.4-4.4V8.4c0-2.4-2-4.4-4.4-4.4h-5.6C18 4 17 4.2 16 5.2c-1-1-2-1.2-3.3-1.2H7.1C4.6 4 2.7 6 2.7 8.4v15.2zm24 0c0 1-.8 1.7-1.7 1.7h-5.6c-1.3 0-2.3.2-3.3 1.2-1-1-2-1.2-3.3-1.2H7.1c-1 0-1.7-.8-1.7-1.7V8.4c0-1 .8-1.7 1.7-1.7h5.6c1.3 0 2.3.5 3.3 1.5 1-1 2-1.5 3.3-1.5h5.6c1 0 1.7.8 1.7 1.7v15.2zM13.3 10.7H8c-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7h5.3c.4 0 .7.3.7.7 0 .4-.3.7-.7.7zm-5.3 4h5.3c.4 0 .7-.3.7-.7s-.3-.7-.7-.7H8c-.4 0-.7.3-.7.7s.3.7.7.7zm5.3 4H8c-.4 0-.7-.3-.7-.7s.3-.7.7-.7h5.3c.4 0 .7.3.7.7s-.3.7-.7.7zm-5.3 4h3.4c.4 0 .7-.3.7-.7s-.3-.7-.7-.7H8c-.4 0-.7.3-.7.7s.3.7.7.7z"></path></svg>
+                <h4 class="c-menu-item-title">Release Notes</h4>
+              
+                <p class="c-menu-item-desc">Get the details on the latest Firefox updates.</p>
+              
+              </a>
+            </section>
+          </li>
+        </ul>
+        <p class="c-menu-category-link"><a href="/en-US/firefox/" data-link-text="View all Firefox Browsers" data-link-position="topnav - firefox">View all Firefox Browsers</a></p>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close firefox -->
+                
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="/en-US/products/" aria-haspopup="true" aria-controls="c-menu-panel-products" data-testid="navigation-link-products">Products</a>
+  <div class="c-menu-panel" id="c-menu-panel-products" data-testid="navigation-menu-products">
+    <div class="c-menu-panel-container">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-products">Close Products menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-four">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://monitor.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-text="Mozilla Monitor" data-link-position="topnav - products">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/firefox/monitor/logo.d97e5516f9e6.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Mozilla Monitor</h4>
+                <p class="c-menu-item-desc">See if your email has appeared in a company’s data breach.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/facebookcontainer/" data-link-text="Facebook Container" data-link-position="topnav - products">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#f80073" d="M27 1H5C2.8 1 1 2.8 1 5v22c0 2.2 1.8 4 4 4h22c2.2 0 4-1.8 4-4V5c0-2.2-1.8-4-4-4z"></path><path fill="#fff" d="M26 8.8l-1.4-1.4c-.1-.1-.2-.1-.3 0l-1.4 1.4-.1.1v2.8h-2.3V8.9L19 7.4c-.1-.1-.2-.1-.3 0l-1.4 1.4-.1.1v2.8h-2.3V8.9l-1.4-1.4c-.1-.1-.2-.1-.3 0l-1.4 1.4-.1.1v2.8H9.2V8.9L7.8 7.4c-.1-.1-.2-.1-.3 0L6 8.8l-.1.1v15c0 .1.1.2.2.2H9c.1 0 .2-.1.2-.2v-2.8h2.3V24c0 .1.1.2.2.2h2.8c.1 0 .2-.1.2-.2v-2.8H17V24c0 .1.1.2.2.2H20c.1 0 .2-.1.2-.2v-2.8h2.3V24c0 .1.1.2.2.2h2.8c.1 0 .2-.1.2-.2V9c.4-.1.3-.2.3-.2zm-14.7 11H9.2v-6.6h2.3v6.6h-.2zm5.6 0h-2.1v-6.6h2.3v6.6h-.2zm5.7 0h-2.1v-6.6h2.3v6.6h-.2z"></path></svg>
+                <h4 class="c-menu-item-title">Facebook Container</h4>
+                <p class="c-menu-item-desc">Help prevent Facebook from collecting your data outside their site.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://getpocket.com/firefox_learnmore/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-text="Pocket" data-link-position="topnav - products">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/pocket/logo.17446bc33a5d.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Pocket</h4>
+                <p class="c-menu-item-desc">Save and discover the best stories from across the web.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/products/vpn/" data-link-text="Mozilla VPN" data-link-position="topnav - products">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/mozilla/vpn/logo.c648f487bfb8.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Mozilla VPN</h4>
+                <p class="c-menu-item-desc">Get protection beyond your browser, on all your devices.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://relay.firefox.com/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-text="Firefox Relay" data-link-position="topnav - projects">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/firefox/relay/logo.683083c53b93.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Firefox Relay</h4>
+                <p class="c-menu-item-desc">Sign up for new accounts without handing over your email address.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://developer.mozilla.org/plus?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-text="MDN Plus" data-link-position="topnav - projects">
+                <img loading="lazy" src="https://www.mozilla.org/media/img/nav/icons/icon-mdn-plus.f54475f980ab.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">MDN Plus</h4>
+                <p class="c-menu-item-desc">New features and tools for a customized MDN experience</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://fakespot.com/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=products" data-link-text="Fakespot" data-link-position="topnav - projects">
+                <img loading="lazy" src="https://www.mozilla.org/media/img/logos/fakespot/logo-blue.3973b8fe9631.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Fakespot</h4>
+              
+                <p class="c-menu-item-desc">Use AI to detect fake reviews and scams</p>
+              
+              </a>
+            </section>
+          </li>
+        </ul>
+        <p class="c-menu-category-link"><a href="/en-US/products/" data-link-text="View all Products" data-link-position="topnav - products">View all Products</a></p>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close products -->
+                
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="/en-US/about/" aria-haspopup="true" aria-controls="c-menu-panel-about" data-testid="navigation-link-who-we-are">Who We Are</a>
+  <div class="c-menu-panel" id="c-menu-panel-about" data-testid="navigation-menu-who-we-are">
+    <div class="c-menu-panel-container">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-about">Close Who We Are menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-four">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/about/manifesto/" data-link-text="Mozilla Manifesto" data-link-position="topnav - who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M9.5 28.6h13.1c2.6 0 4.6-2.1 4.6-4.6V8.1c0-2.6-2.1-4.6-4.6-4.6H9.5c-2.6 0-4.6 2.1-4.6 4.6V24c-.1 2.5 2 4.6 4.6 4.6zM7.6 8.1c0-1 .8-1.8 1.8-1.8h13.1c1 0 1.8.8 1.8 1.8V24c0 1-.8 1.8-1.8 1.8h-13c-1 0-1.8-.8-1.8-1.8V8.1zm12.6 2.3h-8.4c-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7h8.4c.4 0 .7.3.7.7 0 .4-.3.7-.7.7zm-8.4 4.2h8.4c.4 0 .7-.3.7-.7s-.3-.7-.7-.7h-8.4c-.4 0-.7.3-.7.7s.3.7.7.7zm8.4 4.2h-8.4c-.4 0-.7-.3-.7-.7s.3-.7.7-.7h8.4c.4 0 .7.3.7.7s-.3.7-.7.7zM11.8 23h3.6c.4 0 .7-.3.7-.7s-.3-.7-.7-.7h-3.6c-.4 0-.7.3-.7.7s.3.7.7.7z"></path></svg>
+                <h4 class="c-menu-item-title">Mozilla Manifesto</h4>
+              
+                <p class="c-menu-item-desc">Learn about the values and principles that guide our mission.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://foundation.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=who-we-are" data-link-text="Mozilla Foundation" data-link-position="topnav - who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M16 9.3V4H2.7v24h26.7V9.3H16zm-8 16H5.3v-2.7H8v2.7zM8 20H5.3v-2.7H8V20zm0-5.3H5.3V12H8v2.7zm0-5.4H5.3V6.7H8v2.6zm5.3 16h-2.7v-2.7h2.7v2.7zm0-5.3h-2.7v-2.7h2.7V20zm0-5.3h-2.7V12h2.7v2.7zm0-5.4h-2.7V6.7h2.7v2.6zm13.4 16H16v-2.7h2.7V20H16v-2.7h2.7v-2.7H16V12h10.7v13.3zM24 14.7h-2.7v2.7H24v-2.7zm0 5.3h-2.7v2.7H24V20z"></path></svg>
+                <h4 class="c-menu-item-title">Mozilla Foundation</h4>
+                <p class="c-menu-item-desc">Meet the not-for-profit behind Firefox that stands for a better web.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/about/leadership/" data-link-text="Leadership" data-link-position="topnav - who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M22.7 13.9V2.7H9.3v11.2c0 .5.2.9.7 1.1l5.6 3.3-1.3 3.1-4.5.4 3.5 3-1.1 4.4L16 27l3.9 2.4-1-4.4 3.5-3-4.5-.4-1.3-3.1 5.6-3.3c.2-.4.5-.8.5-1.3zm-5.4 2.4l-1.3.8-1.3-.8V4h2.7v12.3z"></path></svg>
+                <h4 class="c-menu-item-title">Leadership</h4>
+              
+                <p class="c-menu-item-desc">Meet the team that’s building technology for a better internet.</p>
+              
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/contribute/" data-link-text="Get Involved" data-link-position="topnav - who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M12 22.7l4-3.9c-.5-.1-.9-.1-1.3-.1C11.1 18.7 4 20.5 4 24v2.7h12l-4-4zm2.7-6.7c2.9 0 5.3-2.4 5.3-5.3s-2.4-5.3-5.3-5.3-5.3 2.4-5.3 5.3c-.1 2.9 2.3 5.3 5.3 5.3z"></path><path fill="#42435a" d="M20.6 27.3L16 22.7l1.9-1.9 2.8 2.8 6.8-6.9 1.9 1.9-8.8 8.7z"></path></svg>
+                <h4 class="c-menu-item-title">Get involved</h4>
+                <p class="c-menu-item-desc">Join the fight for a healthy internet.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/careers/" data-link-text="Careers" data-link-position="topnav - who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32"><path fill="#42435a" d="M13.3 21.3V20H4v5.3C4 26.8 5.2 28 6.7 28h18.7c1.5 0 2.7-1.2 2.7-2.7V20h-9.3v1.3h-5.5zm13.4-12h-5.3V6.7L18.7 4h-5.3l-2.7 2.7v2.7H5.3c-1.5 0-2.7 1.2-2.7 2.7v4c0 1.5 1.2 2.7 2.7 2.7h8V16h5.3v2.7h8c1.5 0 2.7-1.2 2.7-2.7v-4c0-1.5-1.2-2.7-2.6-2.7zm-8 0h-5.3V6.7h5.3v2.6z"></path></svg>
+                <h4 class="c-menu-item-title">Careers</h4>
+                <p class="c-menu-item-desc">Work for a mission-driven organization that makes people-first products.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://blog.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=who-we-are" data-link-text="Mozilla Blog" data-link-position="topnav - who-we-are">
+                <svg class="c-menu-item-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#42435a" d="M21.1 7.5c-.2-.2-.2-.5 0-.7l.5-.5c.8-.8 2.1-.8 2.9 0l1.2 1.2c.8.8.8 2.1 0 2.9l-.5.5c-.2.2-.5.2-.7 0l-3.4-3.4zm2.3 4.5c.2.2.2.5 0 .7L12.7 23.4c-.2.2-.4.3-.6.4l-5.7 2.4c-.3.1-.6 0-.7-.3-.1-.1-.1-.3 0-.4L8.1 20c.1-.2.3-.5.4-.6L19.2 8.6c.2-.2.5-.2.7 0l3.5 3.4zM11.5 22.7l-3.9 1.7 1.7-3.9c0-.1.1-.2.2-.2l2.3 2.3c-.1 0-.2.1-.3.1z"></path></svg>
+                <h4 class="c-menu-item-title">Mozilla Blog</h4>
+              
+                <p class="c-menu-item-desc">Learn about Mozilla and the issues that matter to us.</p>
+              
+              </a>
+            </section>
+          </li>
+        
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/impact/" data-link-text="Impact" data-link-position="topnav - who-we-are">
+                  <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="c-menu-item-icon"><g transform="translate(4 1)" fill="none"><path d="M.4 14.7 4 12v7l-2.4 1.8A1 1 0 0 1 0 20v-4.5a1 1 0 0 1 .4-.8zM15.6 14.7 12 12v7l2.4 1.8A1 1 0 0 0 16 20v-4.5a1 1 0 0 0-.4-.8z" stroke="#42435a" stroke-width="2"/><path d="M5.137 4.14 7.127.569a1 1 0 0 1 1.747 0l1.989 3.57A9 9 0 0 1 12 8.52V19.02H4V8.52a9 9 0 0 1 1.137-4.38z" stroke="#42435a" stroke-width="2"/><circle cx="8" cy="8" r="1.5" fill="#42435a"/><path d="M7.95 16v6" stroke="#42435a" stroke-linecap="round" stroke-width="2"/></g></svg>
+                <h4 class="c-menu-item-title">Impact</h4>
+                <p class="c-menu-item-desc">Find out how we’re making the internet more inclusive and sustainable</p>
+              </a>
+            </section>
+          </li>
+        
+        </ul>
+        <p class="c-menu-category-link">
+          <a href="/en-US/about/" data-link-text="More About Mozilla" data-link-position="topnav - who-we-are">More About Mozilla</a>
+        </p>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close who we are -->
+                
+
+
+
+<li class="c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="c-menu-title" href="https://future.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" aria-haspopup="true" aria-controls="c-menu-panel-innovation" data-testid="navigation-link-innovation">Innovation</a>
+  <div class="c-menu-panel" id="c-menu-panel-innovation" data-testid="navigation-menu-innovation">
+    <div class="c-menu-panel-container">
+      <button class="c-menu-button-close" type="button" aria-controls="c-menu-panel-innovation">Close Innovation menu</button>
+      <div class="c-menu-panel-content">
+        <ul class="mzp-l-rows-two">
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="/en-US/firefox/developer/" data-link-text="Firefox Developer Edition" data-link-position="topnav - innovation">
+                <img loading="lazy" src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/developer/logo.41d42822c8fb.svg" class="c-menu-item-icon" width="32" height="32" alt="">
+                <h4 class="c-menu-item-title">Firefox Developer Edition</h4>
+                <p class="c-menu-item-desc">Get the Firefox browser built just for developers.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://developer.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" data-link-text="MDN Web Docs" data-link-position="topnav - innovation">
+                <img loading="lazy" class="c-menu-item-icon" src="https://www.mozilla.org/media/img/nav/icons/icon-mdn-web-docs.9ed01cfe71c7.svg" alt="">
+                <h4 class="c-menu-item-title">MDN Web Docs</h4>
+                <p class="c-menu-item-desc">Check out the home for web developer resources.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://future.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" data-link-text="Mozilla Innovation Projects" data-link-position="topnav - innovation">
+                <img loading="lazy" class="c-menu-item-icon" src="https://www.mozilla.org/media/img/nav/icons/icon-innovation-projects.11f189479119.svg" alt="">
+                <h4 class="c-menu-item-title">Mozilla Innovation Projects</h4>
+                <p class="c-menu-item-desc">Discover ways to bring bright ideas to life.</p>
+              </a>
+            </section>
+          </li>
+          <li>
+            <section class="c-menu-item mzp-has-icon">
+              <a class="c-menu-item-link" href="https://commonvoice.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=innovation" data-link-text="Common Voice" data-link-position="topnav - innovation">
+                <img loading="lazy" class="c-menu-item-icon" src="https://www.mozilla.org/media/img/nav/icons/icon-common-voice.127fa3f5dcb0.svg" alt="">
+                <h4 class="c-menu-item-title">Common Voice</h4>
+                <p class="c-menu-item-desc">Donate your voice so the future of the web can hear everyone.</p>
+              </a>
+            </section>
+          </li>
+        </ul>
+      </div>
+    </div><!-- close .c-menu-panel-container -->
+  </div><!-- close .c-menu-panel -->
+</li><!-- close innovation -->
+              </ul>
+            </nav>
+          </div><!-- close .c-navigation-menu -->
+        </div><!-- close .c-navigation-items -->
+      </div><!-- close .c-navigation-container -->
+    </div><!-- close .c-navigation-l-content -->
+  </div><!-- close .c-navigation -->
+
+  
+
+
+    
+  
+
+
+
+
+  
+
+<nav class="c-sub-navigation">
+  <div class="mzp-l-content">
+    <div class="c-sub-navigation-content">
+      <h2 class="c-sub-navigation-title">
+        
+          <a href="/en-US/products/vpn/" data-link-position="subnav" data-link-text="Mozilla VPN">
+            
+            Mozilla VPN
+          </a>
+        
+      </h2>
+      <div class="c-sub-navigation-mobile-toggle is-summary" data-testid="sub-navigation-mobile-toggle">
+        <span>Menu</span>
+      </div>
+      <ul class="c-sub-navigation-list is-details is-closed" data-testid="sub-navigation-menu">
+        
+        <li class="c-sub-navigation-item">
+          <a
+            href="/en-US/products/vpn/resource-center/"
+            data-link-position="subnav"
+            data-link-text="Learn about VPNs"
+            
+          >
+            Learn about VPNs
+          </a>
+        </li>
+        
+        <li class="c-sub-navigation-item">
+          <a
+            href="/en-US/products/vpn/features/"
+            data-link-position="subnav"
+            data-link-text="Features"
+            
+          >
+            Features
+          </a>
+        </li>
+        
+        <li class="c-sub-navigation-item">
+          <a
+            href="/en-US/products/vpn/download/"
+            data-link-position="subnav"
+            data-link-text="Download Mozilla VPN"
+            
+          >
+            Download Mozilla VPN
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+    <div id="outer-wrapper">
+      
+<main>
+  <section class="mzp-c-split c-hero mzp-l-split-center-on-sm-md mzp-t-content-xl">
+  
+  <div class="mzp-c-split-container">
+    
+    <div class="mzp-c-split-body">
+      
+    <h1>Powerful privacy for peace of mind</h1>
+
+    
+      <p class="c-main-cta">
+        
+          <a class="mzp-c-button mzp-t-product mzp-t-xl" href="#pricing" data-cta-text="Get Mozilla VPN" data-cta-position="primary" data-testid="get-mozilla-vpn-hero-button">
+            Get Mozilla VPN
+          </a>
+        
+      </p>
+
+    
+  
+    </div>
+    
+      
+        <div class="mzp-c-split-media mzp-l-split-h-center">
+          <img src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-hero-400.9b1263e862db.png" srcset="https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-hero-400.9b1263e862db.png 400w,https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-hero-600.a3ef707e9179.png 600w,https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-hero-800.7168cef63430.png 800w" sizes="(min-width: 1312px) 400px,(min-width: 768px) 50vw,100vw" alt="" height="396" width="400" class="mzp-c-split-media-asset">
+        </div>
+      
+    
+  </div>
+  
+</section>
+
+  <aside class="c-powered-by mzp-l-content mzp-t-content-nospace">
+    <p><strong>Powered by Mozilla.</strong> Fighting for your right to privacy since 1998.</p>
+  </aside>
+
+  <section class="mzp-c-split c-what-vpn mzp-l-split-reversed mzp-l-split-center-on-sm-md mzp-t-content-xl">
+  
+  <div class="mzp-c-split-container">
+    
+    <div class="mzp-c-split-body">
+      
+    <h2 class="u-title-lg">What’s a VPN?</h2>
+
+    <p class="u-body-lg">
+      A virtual private network protects your connection to the internet, keeping your location and what you do online more private across your devices.
+    </p>
+
+    <p class="u-body-lg">
+      <a href="/en-US/products/vpn/features/">See all the ways Mozilla VPN protects you.</a>
+    </p>
+  
+    </div>
+    
+      
+        <div class="mzp-c-split-media mzp-l-split-h-center">
+          <img src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-select-400.a2ac28499aaa.png" srcset="https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-select-400.a2ac28499aaa.png 400w,https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-select-600.8d43de3977a4.png 600w,https://www.mozilla.org/media/img/products/vpn/landing-refresh/vpn-select-800.e59ef41bc24a.png 800w" sizes="(min-width: 1312px) 400px,(min-width: 768px) 50vw,100vw" alt="" height="396" width="400" class="mzp-c-split-media-asset">
+        </div>
+      
+    
+  </div>
+  
+</section>
+
+  
+  <div id="pricing">
+    
+      
+        
+          
+
+
+
+
+
+
+
+
+<section class="mzp-c-split vpn-pricing-mobile-subscription mzp-l-split-center-on-sm-md mzp-t-content-xl">
+  <div class="mzp-c-split-container">
+    <div class="mzp-c-split-body">
+      
+        <h2 class="u-title-lg">One subscription for all your devices</h2>
+      
+
+      
+      <div class="c-pricing-block-mobile-wrapper">
+        <div class="c-pricing-block-mobile">
+          <p class="c-pricing-block-mobile-tag">
+            Recommended
+          </p>
+
+          <h2 class="c-pricing-block-mobile-heading">
+            Annual
+          </h2>
+
+          <h3 class="c-pricing-block-mobile-sub-heading">
+            <span class="vpn-monthly-price-display">₹416.58<span>/month</span></span>
+          </h3>
+
+          
+
+          <p class="c-pricing-block-mobile-total">
+            ₹4,999.00 total
+          </p>
+        </div>
+
+        <div class="c-pricing-block-mobile">
+          <h2 class="c-pricing-block-mobile-heading">
+            Monthly
+          </h2>
+
+          <h3 class="c-pricing-block-mobile-sub-heading">
+            <span class="vpn-monthly-price-display">₹839.00<span>/month</span></span>
+          </h3>
+
+          
+        </div>
+      </div>
+      
+
+      <ol class="vpn-pricing-mobile-steps u-body-lg">
+        
+          <li><span>Sign up for a Mozilla VPN subscription on your mobile device</span></li>
+        
+        <li><span>Connect up to 5 Android, iOS, Windows, macOS or Linux devices</span></li>
+        <li><span>Access 500 servers in 30+ countries</span></li>
+      </ol>
+
+      <p class="vpn-pricing-desktop-instruction u-body-lg">
+        
+          To download the app, scan the QR Code with your mobile device or tablet
+        
+      </p>
+
+      <picture><source media="(min-width: 769px)" srcset="https://www.mozilla.org/media/img/placeholder.71a50dbba44c.png"><img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/devices.aa21dcae3560.svg" alt="" class="vpn-pricing-devices-image" width="310" height="155"></picture>
+
+      <ul class="vpn-pricing-mobile-badges">
+        
+          <li class="ios-badge">
+<a class="ga-product-download "
+    
+     rel="external"
+    href="https://apps.apple.com/us/app/apple-store/id1489407738?pt=373246&amp;ct=vpn-landing-page&amp;mt=8"
+    data-cta-text="App Store"
+    data-cta-type="mozilla_vpn"
+    
+    >
+  <img src="https://www.mozilla.org/media/img/l10n/en-US/firefox/ios/btn-app-store.1cfd5dba4a92.svg" alt="Download on the App Store" width="152" height="45">
+</a></li>
+        
+        <li class="android-badge">
+
+<a class="ga-product-download "
+    
+     rel="external"
+    href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.vpn&amp;referrer=utm_source%3Dwww.mozilla.org%26utm_medium%3Dreferral%26utm_campaign%3Dvpn-landing-page&amp;hl=en"
+    data-cta-text="Play Store"
+    data-cta-type="mozilla_vpn"
+    
+    >
+  <img src="https://www.mozilla.org/media/img/l10n/en-US/firefox/android/btn-google-play.77bdbc935c58.png" srcset="https://www.mozilla.org/media/img/l10n/en-US/firefox/android/btn-google-play-high-res.87d9720bbc8b.png 2x" alt="Get it on Google Play" width="152" height="45">
+</a></li>
+      </ul>
+
+      <p class="vpn-pricing-mobile-button">
+        
+        
+        <a class="ga-product-download ios-cta mzp-c-button mzp-t-product mzp-t-xl" href="https://apps.apple.com/us/app/apple-store/id1489407738?pt=373246&amp;ct=vpn-landing-page&amp;mt=8" data-cta-text="App Store" data-cta-type="mozilla_vpn">
+          Download the app
+        </a>
+        
+
+        <a class="ga-product-download android-cta mzp-c-button mzp-t-product mzp-t-xl" href="https://play.google.com/store/apps/details?id=org.mozilla.firefox.vpn&amp;referrer=utm_source%3Dwww.mozilla.org%26utm_medium%3Dreferral%26utm_campaign%3Dvpn-landing-page&amp;hl=en" data-cta-text="Play Store" data-cta-type="mozilla_vpn">
+          Download the app
+        </a>
+      </p>
+    </div>
+    <div class="mzp-c-split-media mzp-l-split-h-center">
+      <div class="vpn-pricing-mobile-qrcode-wrapper">
+        <div class="vpn-pricing-mobile-qrcode-image">
+          
+            <?xml version='1.0' encoding='UTF-8'?>
+<svg width="49mm" height="49mm" version="1.1" viewBox="0 0 49 49" xmlns="http://www.w3.org/2000/svg"><path d="M4,4H5V5H4zM5,4H6V5H5zM6,4H7V5H6zM7,4H8V5H7zM8,4H9V5H8zM9,4H10V5H9zM10,4H11V5H10zM12,4H13V5H12zM14,4H15V5H14zM15,4H16V5H15zM16,4H17V5H16zM17,4H18V5H17zM18,4H19V5H18zM21,4H22V5H21zM22,4H23V5H22zM23,4H24V5H23zM24,4H25V5H24zM25,4H26V5H25zM27,4H28V5H27zM28,4H29V5H28zM29,4H30V5H29zM32,4H33V5H32zM34,4H35V5H34zM35,4H36V5H35zM36,4H37V5H36zM38,4H39V5H38zM39,4H40V5H39zM40,4H41V5H40zM41,4H42V5H41zM42,4H43V5H42zM43,4H44V5H43zM44,4H45V5H44zM4,5H5V6H4zM10,5H11V6H10zM12,5H13V6H12zM14,5H15V6H14zM15,5H16V6H15zM16,5H17V6H16zM18,5H19V6H18zM19,5H20V6H19zM20,5H21V6H20zM22,5H23V6H22zM24,5H25V6H24zM27,5H28V6H27zM29,5H30V6H29zM32,5H33V6H32zM33,5H34V6H33zM38,5H39V6H38zM44,5H45V6H44zM4,6H5V7H4zM6,6H7V7H6zM7,6H8V7H7zM8,6H9V7H8zM10,6H11V7H10zM14,6H15V7H14zM15,6H16V7H15zM16,6H17V7H16zM17,6H18V7H17zM18,6H19V7H18zM20,6H21V7H20zM21,6H22V7H21zM23,6H24V7H23zM24,6H25V7H24zM27,6H28V7H27zM28,6H29V7H28zM31,6H32V7H31zM34,6H35V7H34zM35,6H36V7H35zM38,6H39V7H38zM40,6H41V7H40zM41,6H42V7H41zM42,6H43V7H42zM44,6H45V7H44zM4,7H5V8H4zM6,7H7V8H6zM7,7H8V8H7zM8,7H9V8H8zM10,7H11V8H10zM12,7H13V8H12zM14,7H15V8H14zM17,7H18V8H17zM18,7H19V8H18zM20,7H21V8H20zM25,7H26V8H25zM27,7H28V8H27zM30,7H31V8H30zM31,7H32V8H31zM34,7H35V8H34zM38,7H39V8H38zM40,7H41V8H40zM41,7H42V8H41zM42,7H43V8H42zM44,7H45V8H44zM4,8H5V9H4zM6,8H7V9H6zM7,8H8V9H7zM8,8H9V9H8zM10,8H11V9H10zM13,8H14V9H13zM14,8H15V9H14zM15,8H16V9H15zM17,8H18V9H17zM20,8H21V9H20zM21,8H22V9H21zM23,8H24V9H23zM25,8H26V9H25zM26,8H27V9H26zM28,8H29V9H28zM29,8H30V9H29zM30,8H31V9H30zM31,8H32V9H31zM32,8H33V9H32zM33,8H34V9H33zM34,8H35V9H34zM35,8H36V9H35zM36,8H37V9H36zM38,8H39V9H38zM40,8H41V9H40zM41,8H42V9H41zM42,8H43V9H42zM44,8H45V9H44zM4,9H5V10H4zM10,9H11V10H10zM13,9H14V10H13zM14,9H15V10H14zM16,9H17V10H16zM17,9H18V10H17zM20,9H21V10H20zM23,9H24V10H23zM25,9H26V10H25zM33,9H34V10H33zM34,9H35V10H34zM35,9H36V10H35zM38,9H39V10H38zM44,9H45V10H44zM4,10H5V11H4zM5,10H6V11H5zM6,10H7V11H6zM7,10H8V11H7zM8,10H9V11H8zM9,10H10V11H9zM10,10H11V11H10zM12,10H13V11H12zM14,10H15V11H14zM16,10H17V11H16zM18,10H19V11H18zM20,10H21V11H20zM22,10H23V11H22zM24,10H25V11H24zM26,10H27V11H26zM28,10H29V11H28zM30,10H31V11H30zM32,10H33V11H32zM34,10H35V11H34zM36,10H37V11H36zM38,10H39V11H38zM39,10H40V11H39zM40,10H41V11H40zM41,10H42V11H41zM42,10H43V11H42zM43,10H44V11H43zM44,10H45V11H44zM12,11H13V12H12zM13,11H14V12H13zM14,11H15V12H14zM16,11H17V12H16zM18,11H19V12H18zM19,11H20V12H19zM21,11H22V12H21zM23,11H24V12H23zM24,11H25V12H24zM27,11H28V12H27zM30,11H31V12H30zM33,11H34V12H33zM34,11H35V12H34zM35,11H36V12H35zM4,12H5V13H4zM6,12H7V13H6zM7,12H8V13H7zM9,12H10V13H9zM10,12H11V13H10zM11,12H12V13H11zM13,12H14V13H13zM14,12H15V13H14zM15,12H16V13H15zM16,12H17V13H16zM18,12H19V13H18zM19,12H20V13H19zM21,12H22V13H21zM22,12H23V13H22zM23,12H24V13H23zM24,12H25V13H24zM25,12H26V13H25zM30,12H31V13H30zM31,12H32V13H31zM33,12H34V13H33zM34,12H35V13H34zM36,12H37V13H36zM38,12H39V13H38zM41,12H42V13H41zM43,12H44V13H43zM44,12H45V13H44zM5,13H6V14H5zM7,13H8V14H7zM12,13H13V14H12zM14,13H15V14H14zM16,13H17V14H16zM19,13H20V14H19zM20,13H21V14H20zM21,13H22V14H21zM23,13H24V14H23zM24,13H25V14H24zM25,13H26V14H25zM27,13H28V14H27zM28,13H29V14H28zM29,13H30V14H29zM32,13H33V14H32zM33,13H34V14H33zM35,13H36V14H35zM36,13H37V14H36zM37,13H38V14H37zM38,13H39V14H38zM39,13H40V14H39zM40,13H41V14H40zM42,13H43V14H42zM44,13H45V14H44zM6,14H7V15H6zM7,14H8V15H7zM8,14H9V15H8zM10,14H11V15H10zM11,14H12V15H11zM12,14H13V15H12zM15,14H16V15H15zM17,14H18V15H17zM18,14H19V15H18zM19,14H20V15H19zM20,14H21V15H20zM22,14H23V15H22zM27,14H28V15H27zM28,14H29V15H28zM32,14H33V15H32zM34,14H35V15H34zM37,14H38V15H37zM39,14H40V15H39zM42,14H43V15H42zM43,14H44V15H43zM5,15H6V16H5zM8,15H9V16H8zM11,15H12V16H11zM12,15H13V16H12zM14,15H15V16H14zM16,15H17V16H16zM17,15H18V16H17zM20,15H21V16H20zM22,15H23V16H22zM24,15H25V16H24zM26,15H27V16H26zM29,15H30V16H29zM31,15H32V16H31zM34,15H35V16H34zM36,15H37V16H36zM37,15H38V16H37zM38,15H39V16H38zM43,15H44V16H43zM44,15H45V16H44zM5,16H6V17H5zM6,16H7V17H6zM7,16H8V17H7zM8,16H9V17H8zM9,16H10V17H9zM10,16H11V17H10zM11,16H12V17H11zM13,16H14V17H13zM17,16H18V17H17zM18,16H19V17H18zM21,16H22V17H21zM23,16H24V17H23zM24,16H25V17H24zM28,16H29V17H28zM29,16H30V17H29zM30,16H31V17H30zM32,16H33V17H32zM33,16H34V17H33zM37,16H38V17H37zM41,16H42V17H41zM42,16H43V17H42zM44,16H45V17H44zM4,17H5V18H4zM5,17H6V18H5zM6,17H7V18H6zM9,17H10V18H9zM11,17H12V18H11zM13,17H14V18H13zM14,17H15V18H14zM17,17H18V18H17zM18,17H19V18H18zM24,17H25V18H24zM25,17H26V18H25zM27,17H28V18H27zM28,17H29V18H28zM29,17H30V18H29zM30,17H31V18H30zM39,17H40V18H39zM41,17H42V18H41zM42,17H43V18H42zM43,17H44V18H43zM44,17H45V18H44zM7,18H8V19H7zM10,18H11V19H10zM11,18H12V19H11zM13,18H14V19H13zM14,18H15V19H14zM15,18H16V19H15zM16,18H17V19H16zM18,18H19V19H18zM20,18H21V19H20zM23,18H24V19H23zM24,18H25V19H24zM27,18H28V19H27zM30,18H31V19H30zM34,18H35V19H34zM39,18H40V19H39zM40,18H41V19H40zM43,18H44V19H43zM44,18H45V19H44zM4,19H5V20H4zM7,19H8V20H7zM8,19H9V20H8zM12,19H13V20H12zM14,19H15V20H14zM16,19H17V20H16zM18,19H19V20H18zM20,19H21V20H20zM25,19H26V20H25zM26,19H27V20H26zM27,19H28V20H27zM31,19H32V20H31zM35,19H36V20H35zM36,19H37V20H36zM37,19H38V20H37zM38,19H39V20H38zM40,19H41V20H40zM41,19H42V20H41zM44,19H45V20H44zM5,20H6V21H5zM6,20H7V21H6zM7,20H8V21H7zM8,20H9V21H8zM9,20H10V21H9zM10,20H11V21H10zM11,20H12V21H11zM13,20H14V21H13zM14,20H15V21H14zM18,20H19V21H18zM20,20H21V21H20zM22,20H23V21H22zM24,20H25V21H24zM25,20H26V21H25zM26,20H27V21H26zM29,20H30V21H29zM30,20H31V21H30zM34,20H35V21H34zM35,20H36V21H35zM36,20H37V21H36zM40,20H41V21H40zM5,21H6V22H5zM6,21H7V22H6zM7,21H8V22H7zM11,21H12V22H11zM13,21H14V22H13zM14,21H15V22H14zM17,21H18V22H17zM19,21H20V22H19zM24,21H25V22H24zM25,21H26V22H25zM26,21H27V22H26zM27,21H28V22H27zM28,21H29V22H28zM29,21H30V22H29zM30,21H31V22H30zM31,21H32V22H31zM33,21H34V22H33zM34,21H35V22H34zM36,21H37V22H36zM43,21H44V22H43zM4,22H5V23H4zM5,22H6V23H5zM9,22H10V23H9zM10,22H11V23H10zM11,22H12V23H11zM12,22H13V23H12zM14,22H15V23H14zM16,22H17V23H16zM17,22H18V23H17zM18,22H19V23H18zM19,22H20V23H19zM22,22H23V23H22zM26,22H27V23H26zM28,22H29V23H28zM31,22H32V23H31zM32,22H33V23H32zM33,22H34V23H33zM36,22H37V23H36zM38,22H39V23H38zM40,22H41V23H40zM6,23H7V24H6zM7,23H8V24H7zM8,23H9V24H8zM9,23H10V24H9zM11,23H12V24H11zM13,23H14V24H13zM17,23H18V24H17zM18,23H19V24H18zM19,23H20V24H19zM20,23H21V24H20zM21,23H22V24H21zM22,23H23V24H22zM23,23H24V24H23zM25,23H26V24H25zM27,23H28V24H27zM35,23H36V24H35zM36,23H37V24H36zM37,23H38V24H37zM38,23H39V24H38zM39,23H40V24H39zM42,23H43V24H42zM6,24H7V25H6zM9,24H10V25H9zM10,24H11V25H10zM11,24H12V25H11zM12,24H13V25H12zM14,24H15V25H14zM17,24H18V25H17zM24,24H25V25H24zM28,24H29V25H28zM29,24H30V25H29zM31,24H32V25H31zM32,24H33V25H32zM34,24H35V25H34zM35,24H36V25H35zM37,24H38V25H37zM38,24H39V25H38zM40,24H41V25H40zM42,24H43V25H42zM43,24H44V25H43zM44,24H45V25H44zM6,25H7V26H6zM7,25H8V26H7zM17,25H18V26H17zM18,25H19V26H18zM19,25H20V26H19zM23,25H24V26H23zM24,25H25V26H24zM27,25H28V26H27zM29,25H30V26H29zM30,25H31V26H30zM32,25H33V26H32zM34,25H35V26H34zM35,25H36V26H35zM36,25H37V26H36zM38,25H39V26H38zM39,25H40V26H39zM40,25H41V26H40zM43,25H44V26H43zM44,25H45V26H44zM5,26H6V27H5zM6,26H7V27H6zM7,26H8V27H7zM8,26H9V27H8zM9,26H10V27H9zM10,26H11V27H10zM11,26H12V27H11zM14,26H15V27H14zM15,26H16V27H15zM16,26H17V27H16zM17,26H18V27H17zM19,26H20V27H19zM24,26H25V27H24zM25,26H26V27H25zM26,26H27V27H26zM27,26H28V27H27zM28,26H29V27H28zM30,26H31V27H30zM34,26H35V27H34zM36,26H37V27H36zM37,26H38V27H37zM38,26H39V27H38zM40,26H41V27H40zM42,26H43V27H42zM43,26H44V27H43zM4,27H5V28H4zM5,27H6V28H5zM8,27H9V28H8zM12,27H13V28H12zM15,27H16V28H15zM16,27H17V28H16zM19,27H20V28H19zM20,27H21V28H20zM23,27H24V28H23zM29,27H30V28H29zM30,27H31V28H30zM31,27H32V28H31zM32,27H33V28H32zM34,27H35V28H34zM35,27H36V28H35zM39,27H40V28H39zM43,27H44V28H43zM44,27H45V28H44zM4,28H5V29H4zM5,28H6V29H5zM8,28H9V29H8zM10,28H11V29H10zM11,28H12V29H11zM13,28H14V29H13zM17,28H18V29H17zM18,28H19V29H18zM19,28H20V29H19zM20,28H21V29H20zM21,28H22V29H21zM26,28H27V29H26zM28,28H29V29H28zM29,28H30V29H29zM30,28H31V29H30zM31,28H32V29H31zM33,28H34V29H33zM34,28H35V29H34zM36,28H37V29H36zM37,28H38V29H37zM39,28H40V29H39zM42,28H43V29H42zM4,29H5V30H4zM5,29H6V30H5zM7,29H8V30H7zM9,29H10V30H9zM13,29H14V30H13zM14,29H15V30H14zM17,29H18V30H17zM18,29H19V30H18zM19,29H20V30H19zM21,29H22V30H21zM23,29H24V30H23zM24,29H25V30H24zM25,29H26V30H25zM26,29H27V30H26zM28,29H29V30H28zM30,29H31V30H30zM31,29H32V30H31zM32,29H33V30H32zM35,29H36V30H35zM38,29H39V30H38zM41,29H42V30H41zM42,29H43V30H42zM44,29H45V30H44zM5,30H6V31H5zM7,30H8V31H7zM8,30H9V31H8zM10,30H11V31H10zM13,30H14V31H13zM14,30H15V31H14zM15,30H16V31H15zM16,30H17V31H16zM17,30H18V31H17zM18,30H19V31H18zM20,30H21V31H20zM22,30H23V31H22zM23,30H24V31H23zM24,30H25V31H24zM25,30H26V31H25zM29,30H30V31H29zM30,30H31V31H30zM34,30H35V31H34zM35,30H36V31H35zM36,30H37V31H36zM37,30H38V31H37zM40,30H41V31H40zM41,30H42V31H41zM44,30H45V31H44zM4,31H5V32H4zM5,31H6V32H5zM6,31H7V32H6zM7,31H8V32H7zM8,31H9V32H8zM9,31H10V32H9zM11,31H12V32H11zM12,31H13V32H12zM15,31H16V32H15zM18,31H19V32H18zM22,31H23V32H22zM23,31H24V32H23zM24,31H25V32H24zM25,31H26V32H25zM26,31H27V32H26zM30,31H31V32H30zM31,31H32V32H31zM32,31H33V32H32zM35,31H36V32H35zM36,31H37V32H36zM37,31H38V32H37zM38,31H39V32H38zM39,31H40V32H39zM40,31H41V32H40zM41,31H42V32H41zM44,31H45V32H44zM8,32H9V33H8zM10,32H11V33H10zM11,32H12V33H11zM14,32H15V33H14zM18,32H19V33H18zM19,32H20V33H19zM20,32H21V33H20zM22,32H23V33H22zM24,32H25V33H24zM25,32H26V33H25zM28,32H29V33H28zM29,32H30V33H29zM30,32H31V33H30zM31,32H32V33H31zM34,32H35V33H34zM35,32H36V33H35zM37,32H38V33H37zM38,32H39V33H38zM40,32H41V33H40zM41,32H42V33H41zM43,32H44V33H43zM5,33H6V34H5zM7,33H8V34H7zM8,33H9V34H8zM9,33H10V34H9zM12,33H13V34H12zM14,33H15V34H14zM16,33H17V34H16zM18,33H19V34H18zM19,33H20V34H19zM21,33H22V34H21zM22,33H23V34H22zM23,33H24V34H23zM24,33H25V34H24zM25,33H26V34H25zM35,33H36V34H35zM38,33H39V34H38zM39,33H40V34H39zM41,33H42V34H41zM4,34H5V35H4zM8,34H9V35H8zM10,34H11V35H10zM11,34H12V35H11zM12,34H13V35H12zM13,34H14V35H13zM15,34H16V35H15zM16,34H17V35H16zM17,34H18V35H17zM18,34H19V35H18zM19,34H20V35H19zM20,34H21V35H20zM21,34H22V35H21zM23,34H24V35H23zM25,34H26V35H25zM26,34H27V35H26zM30,34H31V35H30zM34,34H35V35H34zM36,34H37V35H36zM38,34H39V35H38zM40,34H41V35H40zM41,34H42V35H41zM42,34H43V35H42zM11,35H12V36H11zM13,35H14V36H13zM16,35H17V36H16zM17,35H18V36H17zM21,35H22V36H21zM23,35H24V36H23zM27,35H28V36H27zM31,35H32V36H31zM32,35H33V36H32zM33,35H34V36H33zM36,35H37V36H36zM37,35H38V36H37zM38,35H39V36H38zM41,35H42V36H41zM42,35H43V36H42zM43,35H44V36H43zM5,36H6V37H5zM6,36H7V37H6zM7,36H8V37H7zM10,36H11V37H10zM11,36H12V37H11zM12,36H13V37H12zM14,36H15V37H14zM17,36H18V37H17zM18,36H19V37H18zM20,36H21V37H20zM21,36H22V37H21zM22,36H23V37H22zM25,36H26V37H25zM28,36H29V37H28zM30,36H31V37H30zM31,36H32V37H31zM32,36H33V37H32zM33,36H34V37H33zM34,36H35V37H34zM35,36H36V37H35zM36,36H37V37H36zM37,36H38V37H37zM38,36H39V37H38zM39,36H40V37H39zM40,36H41V37H40zM42,36H43V37H42zM43,36H44V37H43zM44,36H45V37H44zM12,37H13V38H12zM15,37H16V38H15zM19,37H20V38H19zM20,37H21V38H20zM21,37H22V38H21zM22,37H23V38H22zM23,37H24V38H23zM24,37H25V38H24zM25,37H26V38H25zM27,37H28V38H27zM29,37H30V38H29zM30,37H31V38H30zM32,37H33V38H32zM34,37H35V38H34zM36,37H37V38H36zM40,37H41V38H40zM41,37H42V38H41zM42,37H43V38H42zM43,37H44V38H43zM44,37H45V38H44zM4,38H5V39H4zM5,38H6V39H5zM6,38H7V39H6zM7,38H8V39H7zM8,38H9V39H8zM9,38H10V39H9zM10,38H11V39H10zM12,38H13V39H12zM13,38H14V39H13zM14,38H15V39H14zM16,38H17V39H16zM20,38H21V39H20zM22,38H23V39H22zM27,38H28V39H27zM29,38H30V39H29zM32,38H33V39H32zM33,38H34V39H33zM35,38H36V39H35zM36,38H37V39H36zM38,38H39V39H38zM40,38H41V39H40zM41,38H42V39H41zM42,38H43V39H42zM43,38H44V39H43zM4,39H5V40H4zM10,39H11V40H10zM12,39H13V40H12zM13,39H14V40H13zM14,39H15V40H14zM16,39H17V40H16zM17,39H18V40H17zM21,39H22V40H21zM23,39H24V40H23zM27,39H28V40H27zM28,39H29V40H28zM32,39H33V40H32zM34,39H35V40H34zM36,39H37V40H36zM40,39H41V40H40zM43,39H44V40H43zM4,40H5V41H4zM6,40H7V41H6zM7,40H8V41H7zM8,40H9V41H8zM10,40H11V41H10zM13,40H14V41H13zM15,40H16V41H15zM16,40H17V41H16zM17,40H18V41H17zM19,40H20V41H19zM20,40H21V41H20zM24,40H25V41H24zM25,40H26V41H25zM28,40H29V41H28zM30,40H31V41H30zM31,40H32V41H31zM34,40H35V41H34zM36,40H37V41H36zM37,40H38V41H37zM38,40H39V41H38zM39,40H40V41H39zM40,40H41V41H40zM41,40H42V41H41zM42,40H43V41H42zM44,40H45V41H44zM4,41H5V42H4zM6,41H7V42H6zM7,41H8V42H7zM8,41H9V42H8zM10,41H11V42H10zM12,41H13V42H12zM13,41H14V42H13zM14,41H15V42H14zM15,41H16V42H15zM16,41H17V42H16zM17,41H18V42H17zM18,41H19V42H18zM19,41H20V42H19zM23,41H24V42H23zM26,41H27V42H26zM28,41H29V42H28zM29,41H30V42H29zM30,41H31V42H30zM31,41H32V42H31zM32,41H33V42H32zM34,41H35V42H34zM40,41H41V42H40zM42,41H43V42H42zM43,41H44V42H43zM4,42H5V43H4zM6,42H7V43H6zM7,42H8V43H7zM8,42H9V43H8zM10,42H11V43H10zM12,42H13V43H12zM13,42H14V43H13zM14,42H15V43H14zM16,42H17V43H16zM17,42H18V43H17zM18,42H19V43H18zM20,42H21V43H20zM21,42H22V43H21zM23,42H24V43H23zM24,42H25V43H24zM25,42H26V43H25zM26,42H27V43H26zM28,42H29V43H28zM29,42H30V43H29zM30,42H31V43H30zM33,42H34V43H33zM34,42H35V43H34zM39,42H40V43H39zM43,42H44V43H43zM44,42H45V43H44zM4,43H5V44H4zM10,43H11V44H10zM14,43H15V44H14zM15,43H16V44H15zM17,43H18V44H17zM20,43H21V44H20zM23,43H24V44H23zM24,43H25V44H24zM25,43H26V44H25zM27,43H28V44H27zM32,43H33V44H32zM34,43H35V44H34zM35,43H36V44H35zM36,43H37V44H36zM40,43H41V44H40zM41,43H42V44H41zM43,43H44V44H43zM4,44H5V45H4zM5,44H6V45H5zM6,44H7V45H6zM7,44H8V45H7zM8,44H9V45H8zM9,44H10V45H9zM10,44H11V45H10zM12,44H13V45H12zM14,44H15V45H14zM15,44H16V45H15zM18,44H19V45H18zM21,44H22V45H21zM22,44H23V45H22zM23,44H24V45H23zM24,44H25V45H24zM25,44H26V45H25zM26,44H27V45H26zM29,44H30V45H29zM31,44H32V45H31zM34,44H35V45H34zM35,44H36V45H35zM36,44H37V45H36zM38,44H39V45H38zM43,44H44V45H43z" id="qr-path" fill="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none"/></svg>
+          
+        </div>
+        <picture><source media="(max-width: 767px)" srcset="https://www.mozilla.org/media/img/placeholder.71a50dbba44c.png"><img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/qrcode-background.d0b522f827da.svg" alt="" class="vpn-pricing-qrcode-background" width="480" height="508"></picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="vpn-pricing-mobile-unsupported-language mzp-l-content mzp-t-content-xl">
+  
+
+
+</div>
+        
+      
+    
+  </div>
+
+  <section class="c-how-vpn-helps mzp-l-content mzp-t-content-xl">
+    <h2 class="c-section-title">How a VPN helps you</h2>
+
+    <img class="c-section-main-img" loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/travel-padlock.d0de2ef9fa73.svg" width="726" height="280" alt="">
+
+    <ul class="mzp-l-columns mzp-t-columns-three">
+      <li>
+        <h3 class="c-reason-title">Keeps your data safe on public Wi-Fi</h3>
+        <p>Log in to your bank or doctor’s office from the airport, cafe or anywhere, with peace of mind.</p>
+      </li>
+      <li>
+        <h3 class="c-reason-title">Blocks advertisers from targeting you</h3>
+        <p>Hide your activity from trackers and malware so you can shop without being watched.</p>
+      </li>
+      <li>
+        <h3 class="c-reason-title">Helps you access global content</h3>
+        <p>Check out streaming media, websites and live-streams from other countries while you’re traveling or at home.</p>
+      </li>
+    </ul>
+  </section>
+
+  <div class="c-aside secondary mzp-l-content mzp-t-content-xl">
+    
+      <p>
+        
+        <a class="mzp-c-button mzp-t-product mzp-t-xl" href="#pricing" data-cta-text="Get Mozilla VPN" data-cta-position="secondary" data-testid="get-mozilla-vpn-secondary-button">
+          Get Mozilla VPN
+        </a>
+      </p>
+      
+    
+  </div>
+
+  <section class="c-features mzp-l-content mzp-t-content-xl">
+    <h2 class="c-section-title t-large">Features</h2>
+
+    <ul class="mzp-l-columns mzp-t-columns-two mzp-t-picto-side">
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/devices.670fd68a5ec1.svg" alt="" class="mzp-c-picto-image" width="40">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <p class="c-feature-title">
+          Connect up to 5 devices
+        </p>
+      
+  </div>
+  
+</li>
+
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/globe.e18a36e126e4.svg" alt="" class="mzp-c-picto-image" width="40">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <p class="c-feature-title">
+          More than 500 servers in 30+ countries
+        </p>
+      
+  </div>
+  
+</li>
+
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/speed.12652a64a0aa.svg" alt="" class="mzp-c-picto-image" width="40">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <p class="c-feature-title">
+          Fast network speeds even while gaming
+        </p>
+      
+  </div>
+  
+</li>
+
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/no-spy.47464aa37730.svg" alt="" class="mzp-c-picto-image" width="40">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <p class="c-feature-title">
+          No logging, tracking or sharing of network data
+        </p>
+      
+  </div>
+  
+</li>
+
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/stop.b335ca226068.svg" alt="" class="mzp-c-picto-image" width="40">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <p class="c-feature-title">
+          No bandwidth restrictions or throttling
+        </p>
+      
+  </div>
+  
+</li>
+
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/shield.7fcf214bcb62.svg" alt="" class="mzp-c-picto-image" width="40">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <p class="c-feature-title">
+          Extra security: whole device protection, multi-hop routing &amp; more
+        </p>
+      
+  </div>
+  
+</li>
+    </ul>
+    <p class="c-section-more"><a href="/en-US/products/vpn/features/">See all features</a></p>
+  </section>
+
+  <div class="c-aside tertiary mzp-l-content mzp-t-content-xl">
+    
+      <p>
+        
+        <a class="mzp-c-button mzp-t-product mzp-t-xl" href="#pricing" data-cta-text="Get Mozilla VPN" data-cta-position="tertiary" data-testid="get-mozilla-vpn-tertiary-button">
+          Get Mozilla VPN
+        </a>
+      </p>
+      
+    
+  </div>
+
+  <section class="mzp-c-split c-brand-trust mzp-l-split-center-on-sm-md mzp-t-content-lg">
+  
+  <div class="mzp-c-split-container">
+    
+    <div class="mzp-c-split-body">
+      
+    <h2 class="u-title-lg">From a brand you can trust</h2>
+    <p>Mozilla is a non-profit-backed internet company that’s been fighting for a healthy web since 1998.</p>
+  
+    </div>
+    
+      
+        <div class="mzp-c-split-media mzp-l-split-h-center">
+          <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/heart.4046653044a7.svg" alt="" class="mzp-c-split-media-asset" width="260" height="260">
+        </div>
+      
+    
+  </div>
+  
+</section>
+
+  
+
+<section class="c-press mzp-l-content mzp-t-content-xl t-content-body">
+  <h2 class="c-section-title t-small">As seen in</h2>
+
+  <ul class="mzp-l-columns mzp-t-columns-three">
+    <li>
+      <cite><img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/common/press/washington-post.61a57ca1cff2.svg" width="240" alt="The Washington Post"></cite>
+      <blockquote>
+        <p>
+          “Mozilla’s VPN can also <a href="https://addons.mozilla.org/firefox/addon/multi-account-containers/?src=external-www.mozilla.org-vpnlanding&amp;utm_source=www.mozilla.org-vpnlanding&amp;utm_medium=referral" rel="external noopener" target="_blank">integrate into some nifty privacy-protection features</a> of its Firefox browser.”
+        </p>
+      </blockquote>
+    </li>
+    <li>
+      <cite><img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/common/press/verge.dfa28349865c.svg" width="240" alt="The Verge"></cite>
+      <blockquote>
+        <p>
+          “…unique features, like its Multi-Account Containers, might make the feature easily accessible to users with more serious privacy concerns.”
+        </p>
+      </blockquote>
+    </li>
+    <li>
+      <cite><img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/common/press/techradar.2ef2f60e12ba.svg" width="240" alt="Tech Radar"></cite>
+      <blockquote>
+        <p>
+          “Mozilla VPN’s feature list has grown considerably since launch, and the service now beats many specialist VPNs in some areas.”
+        </p>
+      </blockquote>
+    </li>
+  </ul>
+</section>
+
+  <section class="c-learn-more mzp-l-content mzp-t-content-xl">
+    <h2 class="c-section-title t-large">Learn more from our experts</h2>
+
+    <ul class="mzp-l-columns mzp-t-columns-three">
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/home.d3d51fcc0774.svg" alt="" class="mzp-c-picto-image" width="104">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <h3 class="c-learn-more-heading">
+          <a href="/en-US/products/vpn/resource-center/do-you-need-a-vpn-at-home-here-are-5-reasons-you-might/">
+            Do you need a VPN at home? Here’s 5 reasons you might.
+          </a>
+        </h3>
+      
+  </div>
+  
+</li>
+
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/ip.bb3ba6a6b856.svg" alt="" class="mzp-c-picto-image" width="104">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <h3 class="c-learn-more-heading">
+          <a href="/en-US/products/vpn/resource-center/what-is-an-ip-address/">
+            What is an IP address?
+          </a>
+        </h3>
+      
+  </div>
+  
+</li>
+
+      <li class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.mozilla.org/media/img/products/vpn/landing-refresh/icons/location.567326057d49.svg" alt="" class="mzp-c-picto-image" width="104">
+  
+  
+  
+  <div class="mzp-c-picto-body">
+    
+        <h3 class="c-learn-more-heading">
+          <a href="/en-US/products/vpn/resource-center/how-your-location-is-tracked-and-how-you-can-limit-sharing-it/">
+            How your location is tracked and how you can limit sharing it
+          </a>
+        </h3>
+      
+  </div>
+  
+</li>
+    </ul>
+
+    <p class="c-section-more"><a href="/en-US/products/vpn/resource-center/">See more resources</a></p>
+  </section>
+
+  <div class="c-aside footer mzp-l-content mzp-t-content-xl">
+    
+      <p>
+        
+        <a class="mzp-c-button mzp-t-product mzp-t-xl" href="#pricing" data-cta-text="Get Mozilla VPN" data-cta-position="footer" data-testid="get-mozilla-vpn-footer-button">
+          Get Mozilla VPN
+        </a>
+      </p>
+      
+    
+  </div>
+
+  <footer class="c-footer-legal mzp-l-content mzp-t-content-xl">
+    
+
+<ul class="vpn-footer-list">
+  <li><a href="/en-US/privacy/subscription-services/">Privacy Notice</a></li>
+  <li><a href="/en-US/about/legal/terms/subscription-services/">Terms and Conditions</a></li>
+</ul>
+
+<p><small>WireGuard is a registered trademark of Jason A. Donenfeld</small></p>
+  </footer>
+</main>
+
+
+      
+        
+
+
+
+
+<footer class="mzp-c-footer " id="colophon" role="contentinfo">
+  <div class="mzp-l-content">
+    <nav class="mzp-c-footer-primary">
+      <div class="mzp-c-footer-primary-logo">
+        <a href="/en-US/" data-link-position="footer" data-link-text="Mozilla">Mozilla</a>
+      </div>
+      <div class="mzp-c-footer-sections">
+        <section class="mzp-c-footer-section">
+          <h2 class="mzp-c-footer-heading" data-testid="footer-heading-company">
+            Company
+          </h2>
+          <ul class="mzp-c-footer-list" data-testid="footer-list-company">
+            <li><a href="/en-US/about/manifesto/" data-link-position="footer" data-link-text="Mozilla Manifesto">Mozilla Manifesto</a></li>
+            <li><a href="https://blog.mozilla.org/category/mozilla/news/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=company" data-link-position="footer" data-link-text="Press Center">Press Center</a></li>
+            <li><a href="https://blog.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=company" data-link-position="footer" data-link-text="Mozilla Blog">Mozilla Blog</a></li>
+            <li><a href="/en-US/careers/" data-link-position="footer" data-link-text="Careers">Careers</a></li>
+            <li><a href="/en-US/contact/" data-link-position="footer" data-link-text="Contact">Contact</a></li>
+            <li>
+              <a class="mzp-c-button mzp-t-dark mzp-t-secondary footer-donate" href="https://foundation.mozilla.org/?form=moco-donate-footer" data-link-text="Donate">
+                <span class="mzp-c-button-icon-start">
+                  <svg width="16" height="16" viewBox="0 0 16 16">
+                    <path fill="#fff" d="M1.2,2.2c-1.5,1.5-1.5,4.2,0,5.7L8,15c2.3-2.4,4.5-4.7,6.9-7c1.5-1.5,1.5-4.2,0-5.7c-1.5-1.5-4-1.5-5.6,0L8,3.5 L6.7,2.3C5.1,0.6,2.7,0.6,1.2,2.2"/>
+                  </svg>
+                </span>
+                Donate
+              </a>
+            </li>
+          
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h2 class="mzp-c-footer-heading" data-testid="footer-heading-resources">
+            Resources
+          </h2>
+          <ul class="mzp-c-footer-list" data-testid="footer-list-resources">
+            <li><a href="/en-US/privacy/" data-link-position="footer" data-link-text="Privacy Hub">Privacy Hub</a></li>
+            
+              <li><a href="/en-US/advertising/" data-link-position="footer" data-link-text="Advertise with Mozilla">Advertise with Mozilla</a></li>
+            
+            <li><a href="https://mozilla.design/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=resources" data-link-position="footer" data-link-text="Brand Standards">Brand Standards</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h2 class="mzp-c-footer-heading" data-testid="footer-heading-support">
+            Support
+          </h2>
+          <ul class="mzp-c-footer-list" data-testid="footer-list-support">
+            <li><a href="https://support.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=support" data-link-position="footer" data-link-text="Product Help">Product Help</a></li>
+            <li><a href="https://bugzilla.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=support" data-link-position="footer" data-link-text="File a Bug">File a Bug</a></li>
+            <li><a href="https://pontoon.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=support" data-link-position="footer" data-link-text="Localise Mozilla">Localize Mozilla</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h2 class="mzp-c-footer-heading" data-testid="footer-heading-developers">
+            Developers
+          </h2>
+          <ul class="mzp-c-footer-list" data-testid="footer-list-developers">
+            <li><a href="/en-US/firefox/developer/" data-link-position="footer" data-link-text="Firefox Developer Edition">Developer Edition</a></li>
+            <li><a href="/en-US/firefox/channel/desktop/#beta" data-link-position="footer" data-link-text="Firefox Beta">Beta</a></li>
+            <li><a href="/en-US/firefox/channel/android/#beta" data-link-position="footer" data-link-text="Firefox Beta for Android">Beta for Android</a></li>
+            <li><a href="/en-US/firefox/channel/desktop/#nightly" data-link-position="footer" data-link-text="Firefox Nightly">Nightly</a></li>
+            <li><a href="/en-US/firefox/channel/android/#nightly" data-link-position="footer" data-link-text="Firefox Nightly for Android">Nightly for Android</a></li>
+            <li><a href="/en-US/firefox/enterprise/" data-link-position="footer" data-link-text="Firefox for Enterprise">Enterprise</a></li>
+            <li><a href="https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer&utm_content=developers" rel="external" data-link-position="footer" data-link-text="Tools">Tools</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section">
+          <h2 class="mzp-c-footer-heading-social">Follow @Mozilla</h2>
+          <ul class="mzp-c-footer-links-social">
+            <li><a class="twitter" href="https://twitter.com/mozilla" data-link-position="footer" data-link-text="Twitter (@mozilla)">X (formerly Twitter)<span> (@mozilla)</span></a></li>
+            <li><a class="instagram" href="https://www.instagram.com/mozilla/" data-link-position="footer" data-link-text="Instagram (@mozilla)">Instagram<span> (@mozilla)</span></a></li>
+            <li><a class="linkedin" href="https://www.linkedin.com/company/mozilla-corporation/" data-link-position="footer" data-link-text="LinkedIn (@mozilla)">LinkedIn<span> (@mozilla)</span></a></li>
+            <li><a class="tiktok" href="https://www.tiktok.com/@mozilla" data-link-position="footer" data-link-text="TikTok (@mozilla)">TikTok<span> (@mozilla)</span></a></li>
+            <li><a class="spotify" href="https://open.spotify.com/show/0vT7LJMeVDxyQ2ZamHKu08?si=_uDRD6bRR_6M5YZyISGXgA" data-link-position="footer" data-link-text="Spotify (@mozilla)">Spotify<span> (@mozilla)</span></a></li>
+          </ul>
+
+          <h2 class="mzp-c-footer-heading-social">Follow @Firefox</h2>
+          <ul class="mzp-c-footer-links-social">
+            <li><a class="twitter" href="https://twitter.com/firefox" data-link-position="footer" data-link-text="Twitter (@firefox)">X (formerly Twitter)<span> (@firefox)</span></a></li>
+            <li><a class="instagram" href="https://www.instagram.com/firefox/" data-link-position="footer" data-link-text="Instagram (@firefox)">Instagram<span> (@firefox)</span></a></li>
+            <li><a class="youtube" href="https://www.youtube.com/user/firefoxchannel" data-link-position="footer" data-link-text="YouTube (@firefoxchannel)">YouTube<span> (@firefoxchannel)</span></a></li>
+          </ul>
+        </section>
+      </div>
+    </nav>
+    <nav class="mzp-c-footer-secondary">
+      <div class="mzp-c-footer-language">
+       
+  <form id="lang_form" class="mzp-c-language-switcher" method="get" action="#">
+    <a class="mzp-c-language-switcher-link" href="/locales/">Language</a>
+    <label for="page-language-select">Language</label>
+    <select id="page-language-select" class="mzp-js-language-switcher-select" name="lang" dir="ltr" data-testid="footer-language-select">
+      
+        <option lang="ar" value="ar">عربي</option>
+      
+        <option lang="be" value="be">Беларуская</option>
+      
+        <option lang="bs" value="bs">Bosanski</option>
+      
+        <option lang="cs" value="cs">Čeština</option>
+      
+        <option lang="cy" value="cy">Cymraeg</option>
+      
+        <option lang="de" value="de">Deutsch</option>
+      
+        <option lang="dsb" value="dsb">Dolnoserbšćina</option>
+      
+        <option lang="el" value="el">Ελληνικά</option>
+      
+        <option lang="en-CA" value="en-CA">English (Canadian)</option>
+      
+        <option lang="en-GB" value="en-GB">English (British)</option>
+      
+        <option lang="en-US" value="en-US" selected>English</option>
+      
+        <option lang="es-AR" value="es-AR">Español (de Argentina)</option>
+      
+        <option lang="es-CL" value="es-CL">Español (de Chile)</option>
+      
+        <option lang="es-ES" value="es-ES">Español (de España)</option>
+      
+        <option lang="fr" value="fr">Français</option>
+      
+        <option lang="fy-NL" value="fy-NL">Frysk</option>
+      
+        <option lang="gn" value="gn">Avañe'ẽ</option>
+      
+        <option lang="hi-IN" value="hi-IN">हिन्दी (भारत)</option>
+      
+        <option lang="hr" value="hr">Hrvatski</option>
+      
+        <option lang="hsb" value="hsb">Hornjoserbsce</option>
+      
+        <option lang="hu" value="hu">magyar</option>
+      
+        <option lang="ia" value="ia">Interlingua</option>
+      
+        <option lang="id" value="id">Bahasa Indonesia</option>
+      
+        <option lang="it" value="it">Italiano</option>
+      
+        <option lang="ja" value="ja">日本語</option>
+      
+        <option lang="ka" value="ka">ქართული</option>
+      
+        <option lang="ko" value="ko">한국어</option>
+      
+        <option lang="ms" value="ms">Melayu</option>
+      
+        <option lang="nl" value="nl">Nederlands</option>
+      
+        <option lang="pa-IN" value="pa-IN">ਪੰਜਾਬੀ (ਭਾਰਤ)</option>
+      
+        <option lang="pt-BR" value="pt-BR">Português (do Brasil)</option>
+      
+        <option lang="pt-PT" value="pt-PT">Português (Europeu)</option>
+      
+        <option lang="rm" value="rm">rumantsch</option>
+      
+        <option lang="ru" value="ru">Русский</option>
+      
+        <option lang="sk" value="sk">slovenčina</option>
+      
+        <option lang="skr" value="skr">سرائیکی</option>
+      
+        <option lang="sl" value="sl">Slovenščina</option>
+      
+        <option lang="sq" value="sq">Shqip</option>
+      
+        <option lang="sr" value="sr">Српски</option>
+      
+        <option lang="sv-SE" value="sv-SE">Svenska</option>
+      
+        <option lang="tr" value="tr">Türkçe</option>
+      
+        <option lang="uk" value="uk">Українська</option>
+      
+        <option lang="vi" value="vi">Tiếng Việt</option>
+      
+        <option lang="zh-CN" value="zh-CN">中文 (简体)</option>
+      
+        <option lang="zh-TW" value="zh-TW">正體中文 (繁體)</option>
+      
+    </select>
+    <button type="submit">Go</button>
+  </form>
+
+      </div>
+      <div class="mzp-c-footer-legal">
+        <ul class="mzp-c-footer-terms">
+          <li><a href="/en-US/privacy/websites/" data-link-position="footer" data-link-text="Privacy">Website Privacy Notice</a></li>
+          <li>
+            
+            <a href="/en-US/privacy/websites/cookie-settings/" data-link-position="footer" data-link-text="Cookies">Cookies</a>
+          </li>
+          <li><a href="/en-US/about/legal/" data-link-position="footer" data-link-text="Legal">Legal</a></li>
+          <li><a href="/en-US/about/governance/policies/participation/" data-link-position="footer" data-link-text="Community Participation Guidelines">Community Participation Guidelines</a></li>
+          
+            <li><a href="/en-US/about/this-site/" data-link-position="footer" data-link-text="About this site">About this site</a></li>
+          
+        </ul>
+        <p class="mzp-c-footer-license" rel="license">
+          
+          
+          Visit <a href="/en-US/" data-link-position="footer" data-link-text="Mozilla Corporation">Mozilla Corporation’s</a> not-for-profit parent, the <a href="https://foundation.mozilla.org/?utm_source=www.mozilla.org&amp;utm_medium=referral&amp;utm_campaign=footer" rel="external noopener" data-link-position="footer" data-link-text="Mozilla Foundation">Mozilla Foundation</a>.<br>
+          Portions of this content are ©1998–2024 by individual mozilla.org contributors. Content available under a <a rel="license" href="/en-US/foundation/licensing/website-content/">Creative Commons license</a>.
+        </p>
+      </div>
+    </nav>
+  </div>
+</footer>
+
+      
+
+      
+      
+    </div>
+
+    
+    
+      
+        <!--[if !IE]><!-->
+          
+          <script src="https://www.mozilla.org/media/js/sentry.14bbc4d00240.js"></script>
+        <!--<![endif]-->
+      
+    
+
+    
+      <!--[if !IE]><!-->
+        
+        <script src="https://www.mozilla.org/media/js/lib.7cb1e204ce21.js"></script>
+        <script src="https://www.mozilla.org/media/js/fxa.6cacc544775b.js"></script>
+        <script src="https://www.mozilla.org/media/js/data.438fd3539700.js"></script>
+        
+          <script src="https://www.mozilla.org/media/js/ui.7b302504a2da.js"></script>
+        
+      <!--<![endif]-->
+
+      <!--[if IE 9]>
+        
+        <script src="https://www.mozilla.org/media/js/lib-ie.cf16e08599c3.js"></script>
+      <![endif]-->
+    
+
+    
+    
+      
+        <!--[if IE 9]><!-->
+          
+          <script src="https://www.mozilla.org/media/js/stub-attribution.315d9501888d.js"></script>
+        <!--<![endif]-->
+      
+    
+
+    <!--[if !IE]><!-->
+    
+    
+      
+        <script src="https://www.mozilla.org/media/js/glean.f0ce2425d2c8.js"></script>
+      
+    
+
+    
+  
+    <script src="https://www.mozilla.org/media/js/fxa_product_button.f64f4065da05.js"></script>
+  
+
+  <script src="https://www.mozilla.org/media/js/data_begincheckout.7dab754d773c.js"></script>
+
+
+    
+  <script src="https://www.mozilla.org/media/js/stripe.e5703905d41f.js"></script>
+
+    <!--<![endif]-->
+
+    
+    <!--[if IE 9]><!-->
+      
+      <script src="https://www.mozilla.org/media/js/consent-banner.f74bb4c07d16.js"></script>
+    <!--<![endif]-->
+    
+  </body>
+</html>B�=T�      gE�!gE�!G�B�gE�y      O^partitionKey=%28https%2Cmozilla.org%29,:https://www.mozilla.org/en-US/products/vpn/?utm_medium=monitor&utm_source=security-reco&utm_campaign=ip-breach&utm_content=global&_gl=1%2A735ngn%2A_ga%2AMTU5MTY5MDU0Ny4xNzMyNjI1MTAx%2A_ga_CXG8K4KW4P%2AMTczMjYyNTEwMS4xLjEuMTczMjYyNTE4MC4wLjAuMA.. necko:classified 1 strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAAAAgAAAAAAAAAAAAAAAAAAAAEAOQFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAATyMIIE7jCCA9agAwIBAgISBEO1NN2GwMfe5M/fzY7yNK1JMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQxMDMxMTI0NTI5WhcNMjUwMTI5MTI0NTI4WjAaMRgwFgYDVQQDEw93d3cubW96aWxsYS5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDbeMTrhp4Es7Ks/LlYcdAAtKoWEMTdgSgBnmaJho2o/KD1vy9yfHrq2migVgWXWeS+BRsNFmoUiCsTLeeo6nEyF53NRmD7pLj64quymxNWYzUAh+8od8uON7W6lr5dYZpjkiZKDwgtXTWUWd5BYfHrBL9/j0OQiYZTNhAQu5G2MCcLtCACs6EwBD9DsM/g9hsfI6ZuckM406jukLYKpHIS5bZqYOk6ySi7jlefprnMzOcqoKoQtqeOWXdXdPwBQDg0y7gcrMucuHN+Lm0zdQqBbadSD8O3z2ibJ24/jgZyxmIR56nD6mdD01O8T0Q8WaBzk8ElTHTf4yFMW/TZzoVVAgMBAAGjggITMIICDzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFYPH5zNXJUBXZSPfg1TTbkErJ9PMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wGgYDVR0RBBMwEYIPd3d3Lm1vemlsbGEub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGS4tGWwgAABAMARjBEAiB854azQNLP1duVqHWib/l8NQulpaSe4pLvVgfwo1eobgIgRtAhgP/c2QYNfxGNXeGpkeavLrnbxFgE7S1HG/Ju9i4AdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZLi0ZcDAAAEAwBIMEYCIQC/a4MB663/ojiZk234mNxiOseLuSE0koL+RZvzXC8sPwIhAOqtnzZ1Aw2wdF12zjoft9HZRXlJMEX9h+odLXFYg5OJMA0GCSqGSIb3DQEBCwUAA4IBAQADfuLGizsD/iPv2mjMKVBHMY32jQwVHSbLs3oxzLhujbYK4FE8dTqMRH5a2IgY7OVXcOWRI4Nr7SaxatfnVe77kDgS3OV385CJLhh2LuxH+4MSmfcn+IB56G7P3tLmoP/is+Sm9r0JSB2ujSE2I72FFOE3RctSMyuvLb2NNSonpMqRo7noht4FBk+nKC2DLpigkyU/JLaNnh069QfTR0twEYDfhYD+Go05vy+WLDEXAu0lCYNVLexmLfa3XbZyGfg74CKxiAPZdy10ZU+jFH5wajq4KT/pn1Z/hiW3VM9X8jOE5DS8PlbDe/VlZ64PORHHb71BwFoIHu5BDKXw/9RPEwEABAAAAAAAAQEAAAAAAAAGeDI1NTE5AAAADlJTQS1QU1MtU0hBMjU2AANmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAATyMIIE7jCCA9agAwIBAgISBEO1NN2GwMfe5M/fzY7yNK1JMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQxMDMxMTI0NTI5WhcNMjUwMTI5MTI0NTI4WjAaMRgwFgYDVQQDEw93d3cubW96aWxsYS5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDbeMTrhp4Es7Ks/LlYcdAAtKoWEMTdgSgBnmaJho2o/KD1vy9yfHrq2migVgWXWeS+BRsNFmoUiCsTLeeo6nEyF53NRmD7pLj64quymxNWYzUAh+8od8uON7W6lr5dYZpjkiZKDwgtXTWUWd5BYfHrBL9/j0OQiYZTNhAQu5G2MCcLtCACs6EwBD9DsM/g9hsfI6ZuckM406jukLYKpHIS5bZqYOk6ySi7jlefprnMzOcqoKoQtqeOWXdXdPwBQDg0y7gcrMucuHN+Lm0zdQqBbadSD8O3z2ibJ24/jgZyxmIR56nD6mdD01O8T0Q8WaBzk8ElTHTf4yFMW/TZzoVVAgMBAAGjggITMIICDzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFYPH5zNXJUBXZSPfg1TTbkErJ9PMB8GA1UdIwQYMBaAFMXPRqTq9MPAemyVxC2wXpIvJuO5MFcGCCsGAQUFBwEBBEswSTAiBggrBgEFBQcwAYYWaHR0cDovL3IxMS5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0cDovL3IxMS5pLmxlbmNyLm9yZy8wGgYDVR0RBBMwEYIPd3d3Lm1vemlsbGEub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cAAAGS4tGWwgAABAMARjBEAiB854azQNLP1duVqHWib/l8NQulpaSe4pLvVgfwo1eobgIgRtAhgP/c2QYNfxGNXeGpkeavLrnbxFgE7S1HG/Ju9i4AdwDPEVbu1S58r/OHW9lpLpvpGnFnSrAX7KwB0lt3zsw7CAAAAZLi0ZcDAAAEAwBIMEYCIQC/a4MB663/ojiZk234mNxiOseLuSE0koL+RZvzXC8sPwIhAOqtnzZ1Aw2wdF12zjoft9HZRXlJMEX9h+odLXFYg5OJMA0GCSqGSIb3DQEBCwUAA4IBAQADfuLGizsD/iPv2mjMKVBHMY32jQwVHSbLs3oxzLhujbYK4FE8dTqMRH5a2IgY7OVXcOWRI4Nr7SaxatfnVe77kDgS3OV385CJLhh2LuxH+4MSmfcn+IB56G7P3tLmoP/is+Sm9r0JSB2ujSE2I72FFOE3RctSMyuvLb2NNSonpMqRo7noht4FBk+nKC2DLpigkyU/JLaNnh069QfTR0twEYDfhYD+Go05vy+WLDEXAu0lCYNVLexmLfa3XbZyGfg74CKxiAPZdy10ZU+jFH5wajq4KT/pn1Z/hiW3VM9X8jOE5DS8PlbDe/VlZ64PORHHb71BwFoIHu5BDKXw/9RPZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAFCjCCBQYwggLuoAMCAQICEQCKfT4T1i8w7yOGvSkHazT4MA0GCSqGSIb3DQEBCwUAME8xCzAJBgNVBAYTAlVTMSkwJwYDVQQKEyBJbnRlcm5ldCBTZWN1cml0eSBSZXNlYXJjaCBHcm91cDEVMBMGA1UEAxMMSVNSRyBSb290IFgxMB4XDTI0MDMxMzAwMDAwMFoXDTI3MDMxMjIzNTk1OVowMzELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUxldCdzIEVuY3J5cHQxDDAKBgNVBAMTA1IxMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALqHvFwbADnLygrN1GcQ+QE8pU6lYcsmylL7FQG3uSj1KB7tJ7MkGDlnCQwI7OA6sDt3Dr3z5TlUQQxOrkHWmXTeUdvve/9Yvai3E/beMdXycslyaguDdJWcRgBkFJnzsdki2c2okqocJno//u9YBXsIlYHbcQ+O++MxCbsJvlBNX4+Rdj1anZ6D8unEZrPhBmZDSBiAZaA3GJqbhDKXsbK9xPgVAJ0niPviYxeWbJsnZ0vE2yheacJ58Elc4CRQ4cS8oQWse0BtALTCQT+nWLgvxVybpbsJnvH+67CFOf2oCu9FxHjrZSrCz1883uNcTRv3CycrqgtCd1NPeWodh9kCAwEAAaOB+DCB9TAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMBIGA1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFMXPRqTq9MPAemyVxC2wXpIvJuO5MB8GA1UdIwQYMBaAFHm0WeZ7tuXkAXOACIjIGlj26ZtuMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAoYWaHR0cDovL3gxLmkubGVuY3Iub3JnLzATBgNVHSAEDDAKMAgGBmeBDAECATAnBgNVHR8EIDAeMBygGqAYhhZodHRwOi8veDEuYy5sZW5jci5vcmcvMA0GCSqGSIb3DQEBCwUAA4ICAQBO4oldCgMckDjQ9R/5cVz4w4+yN4h6b7AlH+2+t9iGBo7pCYTNcr+B8/zKz1NI7b32aULUpRE+NcgTspIdBV/qLtTY+EnDrfWZlpzvJtjhtCQLSCBN/NNUtKnGIcjhNhv/d2QpF7nwS+9d6s150L+Qv74jspDaSqlIMXSpRAvh4vYtg3GkdXvSlMEFGUYcuY/zxHRIJSoN5fXbQ+Lbk5u5GbQfL99qDo8x02MPuync3WYsP7AbZ1H4QTzkTbmsuKScZmP1q4UjHcxTtqtxrtzFAXHaNu4KGCoy/QkxfI/2c+ecnLVKFWp3glrP2o1F/h8qZAUwPnPCxgy51jtjSqtGA/6ZwEZAJ2Bj31A6B0fYFUqf6kcfmVoIYgy2bDMITdc47UgtLgVoroBd70zc2CBBX2jxu1rN4w6wDDGHm0PeSUPhyAQ/0Twbh0Uwaaipcg55Ehwx2D4jV92nT6DwHIHRdx9v1tK5qLMDFoE5S59VrtJq5LO/6qXVn0ujydY7cvNK9lSrDPw492CA3241ynWhVOQvvG4XyRqlN7Wimrrs9MB1Rk93qOhZVpFmLW7eKYHWppcFXmRFvizO6mRCRLDDT63wtNwDypmbCYKVgg1jimb5GXL41bmJEOKJmAk1+aIcvpJzI3TpnR/XO0qahFgQwvOn4jXsfjtFzjBGUmvAwGYKMiaRXE/7uyCJhaYy3wW9w5eaVCJM1YWJaWtuluqDAAAAAAAABW8wggVrMIIDU6ADAgECAhEAghDPsNJA41lEY+C7Y4KLADANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0xNTA2MDQxMTA0MzhaFw0zNTA2MDQxMTA0MzhaME8xCzAJBgNVBAYTAlVTMSkwJwYDVQQKEyBJbnRlcm5ldCBTZWN1cml0eSBSZXNlYXJjaCBHcm91cDEVMBMGA1UEAxMMSVNSRyBSb290IFgxMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAregkc/QUN/ObnitXKByHvty33ziQjG485legePd1wqL+9Wpu9gBPKNveaIZsRJO2sWP9FBJrvx/S6jGbIX7RMzy6SPXded+zuP8S8SGaS8GKhnFpSmZmbI9+PHC/rSkiBvPkwOaAruJLj7eZfpQDn9NHl3yZSCNT6DiuTwpvgy7RSVeMgHS22i/QOI17A3AhG3XyMDz6j67d2mOr6xZPwo4RS37PC+j/tXcu9LJ7SuBMEiUMcI0DKaDhUyTsE9nuGb8Qs0qMP4mjYVHerIcHlPRjcewu4m9bmIHhiVw0eWx27zuQYnnm26SaLybF0BDhDt7ZEI4W+7f3qPfH5QIHmI82CJXn4jeWDTZ1nvsOcrEdm7wD+UkF2IHdBbQq1kHprAF2lQoP2N/VvRIfNS8oF2zSmMGoCWR3bkc3us6sWV5onX9y1onFBkEpPlk+3Sb1JMkRp1qjTEAfRqGZtac6UW6GO559cqcSBXhZ7T5ReBULA4+N0C8Fsj57ShxLcwUS/Mbq4FATfEOTdLPKdOeOHwEI0DDUW3E2tAe6wTAwXEi3gjuYpn1giqKjKYLMur2DBBuigwNBodYF8RvCtvCofIY7RqhIKojcdpp2vx9qpT0Zj+s482TeyCsNCij/99viFULUItAnXeF5/hjncIitTubZizrG3SdRbv+8ZPUzQ08CAwEAAaNCMEAwDgYDVR0PAQH/BAQDAgEGMA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFHm0WeZ7tuXkAXOACIjIGlj26ZtuMA0GCSqGSIb3DQEBCwUAA4ICAQBVH1ipvLKoUNAMsdgaaSAnKQisYXVcim74guVpL9X2Vku5uHMQWdMhl37nTHH7stJgrTmoC+oXIVaF8VAOWevO4FnpuskV74adj4SA9uTpkZDcF5tiG0XwZpXSfG/C6jvvH8/L1q4n8amwyK79fX6a+iIE6//Zf+qRKyKxFw6P8oo0W1jY/AHJVLm4JsyKiDOJTC2EPILf7pZXBbosu/fEt8dOO4K+Mcgic3OS0cKApDk5EDMjgkw8n4ayVZgdvimGjCKbnuJrO1c6gnBN3AnHicsKB01s6F2Oye/Oq8e7tStORdZK0CbM5XLKCGqlleMVofek7cksX6X7/6woAi6+13u743F7kBbTB15GU3w3B0KM08SWnNWZtSrglRqASK5MOQfOzEekUpUrurj7rdIzU33lHU1t1aGxx0Jv5kAnNVyjKLcHjeeNM5DnI5/7UJx5bEbVtBWzlm5+mwyWOrhSLT/WW+H7CMKE/iSoo4narGrhGCqxqENhW9Mf3DuNdvIt6I113xczbD1T+3vLQV//3KLQYTjhlrisXYs313XVM8CZEa6dQcFydYS+AkFCX2ckSJTRmye+Bz+5uE+BdFHherftnSPivuDVKAQTPDEDnt16bI/GBxjGf95Hjj8ongQGz6VUNHe97Imb6RdD31vbX/6OHleizUCdfmIi2t4YJwAAAAEAAAACaDIAAQAAAABNdGxzZmxhZ3MweDAwMDAwMDAwOnd3dy5tb3ppbGxhLm9yZzo0NDNecGFydGl0aW9uS2V5PSUyOGh0dHBzJTJDbW96aWxsYS5vcmclMjkAAA== request-method GET response-head HTTP/2 200 
+server: granian
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+content-security-policy: script-src 'unsafe-eval' www.youtube.com www.google-analytics.com 'self' js.stripe.com tagmanager.google.com s.ytimg.com www.googletagmanager.com 'unsafe-inline' *.mozilla.org *.mozilla.com *.mozilla.net; child-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; style-src 'self' 'unsafe-inline' *.mozilla.org *.mozilla.com *.mozilla.net; frame-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; connect-src o1069899.sentry.io www.google-analytics.com https://accounts.firefox.com/ 'self' www.googletagmanager.com stage.cjms.nonprod.cloudops.mozgcp.net o1069899.ingest.sentry.io *.mozilla.org cjms.services.mozilla.com *.mozilla.com region1.google-analytics.com *.mozilla.net sentry.prod.mozaws.net; default-src *.mozilla.org *.mozilla.net 'self' *.mozilla.com; img-src data: images.ctfassets.net www.google-analytics.com 'self' www.googletagmanager.com *.mozilla.org *.mozilla.com *.mozilla.net; font-src *.mozilla.org *.mozilla.net 'self' *.mozilla.com
+content-security-policy-report-only: object-src 'none'; script-src 'unsafe-eval' www.youtube.com www.google-analytics.com 'self' js.stripe.com tagmanager.google.com s.ytimg.com www.googletagmanager.com 'unsafe-inline' *.mozilla.org *.mozilla.com *.mozilla.net; child-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; style-src 'self' *.mozilla.org *.mozilla.com *.mozilla.net; frame-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; connect-src o1069899.sentry.io www.google-analytics.com https://accounts.firefox.com/ 'self' www.googletagmanager.com stage.cjms.nonprod.cloudops.mozgcp.net o1069899.ingest.sentry.io *.mozilla.org cjms.services.mozilla.com *.mozilla.com region1.google-analytics.com *.mozilla.net sentry.prod.mozaws.net; default-src 'self'; img-src data: images.ctfassets.net www.google-analytics.com 'self' www.googletagmanager.com *.mozilla.org *.mozilla.com *.mozilla.net; frame-ancestors 'none'; font-src *.mozilla.org *.mozilla.net 'self' *.mozilla.com; media-src 'self' assets.mozilla.net videos.cdn.mozilla.net
+cache-control: max-age=600
+expires: Tue, 26 Nov 2024 12:56:25 GMT
+x-clacks-overhead: GNU Terry Pratchett
+content-language: en-US
+etag: "337b7b256850480005d3a92ec1ad9878"
+x-backend-server: bedrock-6b6bc79c44-n5tmr.gcp-us-west1
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+via: 1.1 google, 1.1 varnish
+accept-ranges: bytes
+age: 0
+date: Tue, 26 Nov 2024 12:46:25 GMT
+x-served-by: cache-hyd1100030-HYD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1732625185.175299,VS0,VE502
+content-length: 83587
+X-Firefox-Spdy: h2
+ original-response-headers server: granian
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+content-security-policy: script-src 'unsafe-eval' www.youtube.com www.google-analytics.com 'self' js.stripe.com tagmanager.google.com s.ytimg.com www.googletagmanager.com 'unsafe-inline' *.mozilla.org *.mozilla.com *.mozilla.net; child-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; style-src 'self' 'unsafe-inline' *.mozilla.org *.mozilla.com *.mozilla.net; frame-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; connect-src o1069899.sentry.io www.google-analytics.com https://accounts.firefox.com/ 'self' www.googletagmanager.com stage.cjms.nonprod.cloudops.mozgcp.net o1069899.ingest.sentry.io *.mozilla.org cjms.services.mozilla.com *.mozilla.com region1.google-analytics.com *.mozilla.net sentry.prod.mozaws.net; default-src *.mozilla.org *.mozilla.net 'self' *.mozilla.com; img-src data: images.ctfassets.net www.google-analytics.com 'self' www.googletagmanager.com *.mozilla.org *.mozilla.com *.mozilla.net; font-src *.mozilla.org *.mozilla.net 'self' *.mozilla.com
+content-security-policy-report-only: object-src 'none'; script-src 'unsafe-eval' www.youtube.com www.google-analytics.com 'self' js.stripe.com tagmanager.google.com s.ytimg.com www.googletagmanager.com 'unsafe-inline' *.mozilla.org *.mozilla.com *.mozilla.net; child-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; style-src 'self' *.mozilla.org *.mozilla.com *.mozilla.net; frame-src www.youtube.com www.google-analytics.com 'self' js.stripe.com www.googletagmanager.com accounts.firefox.com *.mozilla.org *.mozilla.com *.mozilla.net; connect-src o1069899.sentry.io www.google-analytics.com https://accounts.firefox.com/ 'self' www.googletagmanager.com stage.cjms.nonprod.cloudops.mozgcp.net o1069899.ingest.sentry.io *.mozilla.org cjms.services.mozilla.com *.mozilla.com region1.google-analytics.com *.mozilla.net sentry.prod.mozaws.net; default-src 'self'; img-src data: images.ctfassets.net www.google-analytics.com 'self' www.googletagmanager.com *.mozilla.org *.mozilla.com *.mozilla.net; frame-ancestors 'none'; font-src *.mozilla.org *.mozilla.net 'self' *.mozilla.com; media-src 'self' assets.mozilla.net videos.cdn.mozilla.net
+cache-control: max-age=600
+expires: Tue, 26 Nov 2024 12:56:25 GMT
+x-clacks-overhead: GNU Terry Pratchett
+content-language: en-US
+etag: "337b7b256850480005d3a92ec1ad9878"
+x-backend-server: bedrock-6b6bc79c44-n5tmr.gcp-us-west1
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+via: 1.1 google, 1.1 varnish
+accept-ranges: bytes
+age: 0
+date: Tue, 26 Nov 2024 12:46:25 GMT
+x-served-by: cache-hyd1100030-HYD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1732625185.175299,VS0,VE502
+content-length: 83587
+X-Firefox-Spdy: h2
+ ctid 1 uncompressed-len 0 net-response-time-onstart 506 net-response-time-onstop 547  F�

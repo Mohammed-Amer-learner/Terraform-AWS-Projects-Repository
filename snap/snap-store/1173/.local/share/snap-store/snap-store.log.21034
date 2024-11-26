@@ -1,0 +1,20 @@
+2024-11-26 20:10:17.281368 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#cd68d(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: HTTP connection completed with 502 instead of 200, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, server: Caddy, content-length: 0, date: Tue, 26 Nov 2024 14:40:17 GMT})
+2024-11-26 20:10:17.282861 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1a84d(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.283312 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#2391e(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.427098 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#5e671(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.427638 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#9aa08(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.428055 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#88079(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.429677 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#541b2(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.430324 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1364f(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.430961 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#660a1(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})
+2024-11-26 20:10:17.431353 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#14b6f(null) failed
+	GrpcError: gRPC Error (code: 3, codeName: INVALID_ARGUMENT, message: id, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, date: Tue, 26 Nov 2024 14:40:17 GMT, server: Caddy, content-length: 0})

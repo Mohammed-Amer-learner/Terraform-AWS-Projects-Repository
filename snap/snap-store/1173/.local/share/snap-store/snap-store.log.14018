@@ -1,0 +1,8 @@
+2024-11-26 18:27:47.286823 ERROR main: Error propagated to top-level
+	SnapdException: SnapdException(kind: auth-cancelled, message: cancelled)
+#0      _SnapdErrorResponse.result (package:snapd/src/snapd_client.dart:479)
+#1      SnapdClient._postAsync (package:snapd/src/snapd_client.dart:916)
+<asynchronous suspension>
+#2      SnapModel.remove (package:app_center/snapd/snap_model.dart:112)
+<asynchronous suspension>
+

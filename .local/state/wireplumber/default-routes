@@ -1,0 +1,5 @@
+[default-routes]
+alsa_card.usb-CSCTEK_USB_Audio_and_HID_A34004801402-00:output:analog-output:channelMap=FL;FR;
+alsa_card.usb-CSCTEK_USB_Audio_and_HID_A34004801402-00:output:analog-output:channelVolumes=0.0083808898925781;0.0083808898925781;
+alsa_card.usb-CSCTEK_USB_Audio_and_HID_A34004801402-00:output:analog-output:latencyOffsetNsec=0
+alsa_card.usb-CSCTEK_USB_Audio_and_HID_A34004801402-00:profile:output:analog-stereo+input:mono-fallback=analog-output;

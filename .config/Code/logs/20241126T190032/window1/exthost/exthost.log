@@ -1,0 +1,19 @@
+2024-11-26 19:00:34.699 [info] Extension host with pid 15147 started
+2024-11-26 19:00:34.791 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-26 19:00:34.869 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-26 19:00:34.966 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-26 19:00:35.144 [info] Eager extensions activated
+2024-11-26 19:00:35.174 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-26 19:00:35.178 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-26 19:01:13.264 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-26 19:01:13.280 [info] Extension host with pid 15147 exiting with code 0
+2024-11-26 19:01:14.506 [info] Extension host with pid 15256 started
+2024-11-26 19:01:14.506 [info] Skipping acquiring lock for /home/mohammedamer/.config/Code/User/workspaceStorage/45ab9adc51c2e71b1c40e21217a106ab.
+2024-11-26 19:01:14.528 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-26 19:01:14.564 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-26 19:01:14.656 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-26 19:01:14.809 [info] Eager extensions activated
+2024-11-26 19:01:14.863 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-26 19:01:14.867 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-26 19:02:49.571 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-26 19:02:49.592 [info] Extension host with pid 15256 exiting with code 0

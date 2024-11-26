@@ -1,0 +1,27 @@
+2024-11-26 19:03:02.003 [info] Started local extension host with pid 15517.
+2024-11-26 19:03:02.835 [info] Settings Sync: Updating due to initialize
+2024-11-26 19:03:02.835 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:02.835 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-26 19:03:04.819 [info] [perf] Render performance baseline is 33ms
+2024-11-26 19:03:54.910 [info] Started local extension host with pid 15633.
+2024-11-26 19:03:55.482 [info] Settings Sync: Updating due to initialize
+2024-11-26 19:03:55.483 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:55.483 [info] Settings Sync: Authentication providers updated []
+2024-11-26 19:03:55.567 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:55.568 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-26 19:03:55.568 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:55.569 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-26 19:03:55.569 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:55.569 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-26 19:03:55.569 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:55.570 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-26 19:03:55.584 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-26 19:03:55.585 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:55.585 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-26 19:03:55.585 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-26 19:03:55.585 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-26 19:03:55.586 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-26 19:03:57.612 [info] [perf] Render performance baseline is 36ms
+2024-11-26 19:05:04.487 [info] Started local extension host with pid 15681.
+2024-11-26 19:05:15.138 [info] Started local extension host with pid 15732.
+2024-11-26 19:05:15.946 [error] No registered selector for ID: ms-vscode.npm-command
