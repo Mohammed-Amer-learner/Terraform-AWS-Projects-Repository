@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Tue, 26 Nov 2024 16:28:40 GMT -->
+  <!-- Cached: Tue, 26 Nov 2024 16:23:40 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -1039,4 +1039,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-Ò›SåTFı           gE÷8G•fÁÿÿÿÿ       :about:home alt-data 1;81822,script version 20240819223648  wı
+ó¦pvf3Fı           gEöG•eñÿÿÿÿ       :about:home alt-data 1;81822,script version 20240819223648  wı

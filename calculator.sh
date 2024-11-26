@@ -1,2 +1,1 @@
-x=a+b
-y=a-b
+This is Mohammed Amer
