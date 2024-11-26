@@ -23,4 +23,75 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/mohammedamer/Downloads/MobaXterm_Portable_v24.3" added="2024-11-26T14:52:15.396501Z" modified="2024-11-26T14:52:15.396507Z" visited="2024-11-26T14:52:15.396502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus --new-window %U&apos;" modified="2024-11-26T14:52:15.396504Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mohammedamer/Downloads/MobaXterm_Portable_v24.3/CygUtils64.plugin" added="2024-11-26T14:52:43.732335Z" modified="2024-11-26T14:52:43.732342Z" visited="2024-11-26T14:52:43.732336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus --new-window %U&apos;" modified="2024-11-26T14:52:43.732338Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mohammedamer/Downloads/MobaXterm_Portable_v24.3.zip" added="2024-11-26T14:53:13.791819Z" modified="2024-11-26T14:53:13.791825Z" visited="2024-11-26T14:53:13.791820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus-autorun-software %u&apos;" modified="2024-11-26T14:53:13.791822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mohammedamer/Downloads" added="2024-11-26T14:55:14.027840Z" modified="2024-11-26T14:55:14.027845Z" visited="2024-11-26T14:55:14.027841Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus --new-window %U&apos;" modified="2024-11-26T14:55:14.027842Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mohammedamer/Downloads/MobaXterm_Installer_v24.3.zip" added="2024-11-26T14:57:39.524281Z" modified="2024-11-26T14:57:39.524285Z" visited="2024-11-26T14:57:39.524282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code %F&apos;" modified="2024-11-26T14:57:39.524283Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mohammedamer/Downloads/MobaXterm_Portable_v24.3/MobaXterm_Personal_24.3.exe" added="2024-11-26T15:12:43.925135Z" modified="2024-11-26T15:13:59.609979Z" visited="2024-11-26T15:12:43.925136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-11-26T15:12:43.925137Z" count="1"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-11-26T15:13:59.609977Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///swap.img" added="2024-11-26T15:48:23.029944Z" modified="2024-11-26T15:48:27.420265Z" visited="2024-11-26T15:48:23.029945Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.img"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2024-11-26T15:48:27.420257Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

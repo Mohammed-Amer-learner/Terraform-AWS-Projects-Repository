@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MobaTextEditor
+Exec=env WINEPREFIX="/home/mohammedamer/.wine" wine-stable C:\\\\users\\\\mohammedamer\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\MobaXterm\\\\MobaTextEditor.lnk
+Type=Application
+StartupNotify=true
+Comment=Start MobaTextEditor
+Path=/home/mohammedamer/.wine/dosdevices/c:/Program Files (x86)/Mobatek/MobaXterm/
+Icon=2B55_MobaTextEditor.0
+StartupWMClass=mobarte.exe

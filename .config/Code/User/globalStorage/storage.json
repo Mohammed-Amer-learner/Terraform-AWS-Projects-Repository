@@ -9,24 +9,15 @@
                 "configURIPath": "file:///home/mohammedamer/.config/Code/Workspaces/1732628104875/workspace.json"
             }
         ],
-        "folders": [
-            {
-                "folderUri": "file:///home/mohammedamer/Git-repo"
-            }
-        ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1732627981967"
-            }
-        ]
+        "folders": [],
+        "emptyWindows": []
     },
     "profileAssociations": {
         "workspaces": {
-            "file:///home/mohammedamer/Git-repo": "__default__profile__"
+            "file:///home/mohammedamer/Git-repo": "__default__profile__",
+            "file:///home/mohammedamer/.config/Code/Workspaces/1732628104875/workspace.json": "__default__profile__"
         },
-        "emptyWindows": {
-            "1732627981967": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
@@ -36,11 +27,11 @@
             },
             "backupPath": "/home/mohammedamer/.config/Code/Backups/c477b980ed30e64f71cc133344d42205",
             "uiState": {
-                "mode": 0,
+                "mode": 1,
                 "x": 0,
                 "y": 69,
                 "width": 1366,
-                "height": 699
+                "height": 633
             }
         },
         "openedWindows": []
@@ -115,6 +106,20 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/mohammedamer/Downloads/MobaXterm_Installer_v24.3.zip",
+                                        "path": "/home/mohammedamer/Downloads/MobaXterm_Installer_v24.3.zip",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/MobaXterm_Installer_v24.3.zip"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.openRecent",
                                     "label": "&&More..."
                                 },
@@ -148,13 +153,11 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save",
-                        "enabled": false
+                        "label": "&&Save"
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "saveAll",
@@ -254,13 +257,11 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File",
-                        "enabled": false
+                        "label": "Re&&vert File"
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor",
-                        "enabled": false
+                        "label": "&&Close Editor"
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -309,13 +310,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -677,6 +676,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -776,8 +782,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -785,8 +790,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1467,6 +1471,11 @@
                 "label": "Ctrl+K Ctrl+\\",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.copyEditorToNewWindow": {
                 "label": "Ctrl+K O",

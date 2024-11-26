@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MobaXterm
+Exec=env WINEPREFIX="/home/mohammedamer/.wine" wine-stable C:\\\\Program\\ Files\\ \\(x86\\)\\\\Mobatek\\\\MobaXterm\\\\MobaXterm.exe 
+Type=Application
+StartupNotify=true
+Path=/home/mohammedamer/.wine/dosdevices/c:/Program Files (x86)/Mobatek/MobaXterm/
+Icon=1344_MobaXterm.0
+StartupWMClass=mobaxterm.exe

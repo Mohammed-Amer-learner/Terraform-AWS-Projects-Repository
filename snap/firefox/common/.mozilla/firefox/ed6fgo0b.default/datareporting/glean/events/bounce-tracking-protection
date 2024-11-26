@@ -1,2 +1,5 @@
 {"timestamp":3644314,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","success":"true","glean_timestamp":"1732625719392","site_host":"google.co.in","bounce_time":"1732534340"}}
 {"timestamp":9595866,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1732631670944","glean.startup.date":"2024-11-26T20:04+05:30"},"execution_counter":1}
+{"timestamp":10609380,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1732632684458","glean.startup.date":"2024-11-26T20:21+05:30"},"execution_counter":2}
+{"timestamp":11319962,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1732633395040","glean.startup.date":"2024-11-26T20:33+05:30"},"execution_counter":3}
+{"timestamp":14920977,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1732636996055","bounce_time":"1732631758","site_host":"google.co.in","success":"true","is_dry_run":"true"},"execution_counter":3}

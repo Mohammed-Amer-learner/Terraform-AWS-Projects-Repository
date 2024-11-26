@@ -1,15 +1,16 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="12" last-seen="1732632170"/>
-    <application id="org.gnome.Settings.desktop" score="38" last-seen="1732624532"/>
-    <application id="gnome-initial-setup.desktop" score="47" last-seen="1732533119"/>
-    <application id="firefox_firefox.desktop" score="158" last-seen="1732632308"/>
-    <application id="org.gnome.Terminal.desktop" score="134" last-seen="1732632370"/>
+    <application id="wine-Programs-MobaXterm-MobaXterm.desktop" score="35" last-seen="1732637483"/>
+    <application id="org.gnome.TextEditor.desktop" score="14" last-seen="1732634062"/>
     <application id="org.gnome.SystemMonitor.desktop" score="1" last-seen="1732624943"/>
-    <application id="snap-store_snap-store.desktop" score="66" last-seen="1732632123"/>
-    <application id="code.desktop" score="585" last-seen="1732632395"/>
-    <application id="org.gnome.TextEditor.desktop" score="0" last-seen="1732534217"/>
+    <application id="snap-store_snap-store.desktop" score="68" last-seen="1732632982"/>
     <application id="update-manager.desktop" score="31" last-seen="1732533108"/>
+    <application id="org.gnome.Nautilus.desktop" score="100" last-seen="1732637126"/>
+    <application id="gnome-initial-setup.desktop" score="47" last-seen="1732533119"/>
+    <application id="org.gnome.Terminal.desktop" score="493" last-seen="1732637482"/>
+    <application id="firefox_firefox.desktop" score="273" last-seen="1732637248"/>
+    <application id="code.desktop" score="590" last-seen="1732633097"/>
+    <application id="org.gnome.Settings.desktop" score="38" last-seen="1732624532"/>
   </context>
 </application-state>

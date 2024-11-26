@@ -1,0 +1,65 @@
+Welcome to the XWin X Server
+Vendor: Moba/X
+Release: 1.21.1.12
+OS: Windows 10  [Windows NT 10.0 build 19043] x86-on-x64
+Package: version  built 2024-04-16
+
+XWin was started with the following command line:
+
+
+ C:\users\MOHA~JED\AppData\Roaming\MobaXterm\slash\bin\XWin_MobaX.exe 
+ -silent-dup-error -notrayicon -nolisten inet6 -hostintitle +bs 
+ -clipboard -nowgl -multiwindow -noreset :0 
+
+ddxProcessArgument - Initializing default screens
+winInitializeScreenDefaults - primary monitor w 1366 h 768
+(==) FontPath set to /usr/share/fonts/misc/
+(==) FontPath set to C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/misc/
+(==) FontPath set to /usr/share/fonts/TTF/
+(==) FontPath set to C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/TTF/
+(==) FontPath set to /usr/share/fonts/OTF/
+(==) FontPath set to C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/OTF/
+(==) FontPath set to /usr/share/fonts/Type1/
+(==) FontPath set to C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/Type1/
+(==) FontPath set to /usr/share/fonts/100dpi/
+(==) FontPath set to C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/100dpi/
+(==) FontPath set to /usr/share/fonts/75dpi/
+(==) FontPath set to C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/75dpi/
+(==) FontPath set to "C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/misc/,C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/TTF/,C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/OTF/,C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/Type1/,C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/100dpi/,C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash/usr/share/fonts/75dpi/"
+(==) Setting XKEYSYMDB path to XKEYSYMDB=C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash\usr\share\X11\XKeysymDB
+(==) Setting XERRORDB path to XERRORDB=C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash\usr\share\X11\XErrorDB
+(==) Setting XLOCALEDIR path to XLOCALEDIR=C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash\usr\share\X11\locale
+(==) Logfile set to "C:\users\MOHA~JED\AppData\Roaming\MobaXterm\slash\var\log\xwin\XWin.0.log"
+(==) Setting XKB path to C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash\usr\share\X11\xkb
+[ 15092.725] winUpdateDpi - primary monitor native DPI x 96 y 96
+[ 15092.731] winDetectSupportedEngines - RemoteSession: no
+[ 15093.598] winDetectSupportedEngines - DirectDraw4 installed, allowing ShadowDDNL
+[ 15093.610] winDetectSupportedEngines - Returning, supported engines 00000005
+[ 15093.610] winSetEngine - Multi Window or Rootless => ShadowGDI
+[ 15093.611] winScreenInit - Using Windows display depth of 32 bits per pixel
+[ 15093.627] winAllocateFBShadowGDI - Creating DIB with width: 1366 height: 768 depth: 32
+[ 15093.627] winFinishScreenInitFB - Masks: 00ff0000 0000ff00 000000ff
+[ 15093.627] winInitVisualsShadowGDI - Masks 00ff0000 0000ff00 000000ff BPRGB 8 d 24 bpp 32
+[ 15093.636] (II) IGLX: Loaded and initialized swrast
+[ 15093.636] (II) GLX: Initialized DRISWRAST GL provider for screen 0
+[ 15093.709] (II) [XKB]  "C:\users\MOHA~JED\AppData\Roaming\MobaXterm\slash\var\log\xwin\xkb_a00296" file successfully created.
+[ 15093.709] (II) [XKB]  Launching xkbcomp.exe with the following command:
+[ 15093.709] (II) [XKB]  "C:\users\mohammedamer\AppData\Roaming\MobaXterm\slash\bin\xkbcomp_w32.exe" -w 1 "-RC:\users\mohammedamer\AppData\Roaming\MobaXterm\slash\usr\share\X11\xkb" -xkm "C:\users\MOHA~JED\AppData\Roaming\MobaXterm\slash\var\log\xwin\xkb_a00296" -em1 "The XKEYBOARD keymap compiler (xkbcomp) reports:" -emp "> " -eml "Errors from xkbcomp are not fatal to the X server" "C:\users\MOHA~JED\AppData\Roaming\MobaXterm\slash\var\log\xwin\server-0.xkm"
+[ 15093.709] (II) [XKB]  LaunchXkbComp(II) :  succeeded
+[ 15093.845] (II) [XKB]  Successfully created keyboard mapping file "C:\users\MOHA~JED\AppData\Roaming\MobaXterm\slash\var\log\xwin\xkb_a00296"
+[ 15093.846] winPointerWarpCursor - Discarding first warp: 683 384
+[ 15093.848] (--) 3 mouse buttons found
+[ 15093.848] (--) Setting autorepeat to delay=500, rate=31
+[ 15093.848] (--) Windows keyboard layout: "00000409" (00000409) "", type 4
+[ 15093.848] (--) Found matching XKB configuration "English (USA)"
+[ 15093.848] (--) Model = "pc105" Layout = "us" Variant = "none" Options = "none"
+[ 15093.848] Rules = "base" Model = "pc105" Layout = "us" Variant = "none" Options = "none"
+[ 15093.850] winInitMultiWindowWM - DISPLAY=127.0.0.1:0.0
+[ 15093.850] winMultiWindowXMsgProc - DISPLAY=127.0.0.1:0.0
+[ 15093.852] winMultiWindowXMsgProc - xcb_connect() returned and successfully opened the display.
+[ 15093.852] winProcEstablishConnection - winInitClipboard returned.
+[ 15093.853] winInitMultiWindowWM - xcb_connect () returned and successfully opened the display.
+[ 15093.853] winClipboardThreadProc - DISPLAY=127.0.0.1:0.0
+[ 15093.855] winClipboardProc - xcb_connect () returned and successfully opened the display.
+[ 15093.861] Using Composite redirection
+[ 15097.368] winWindowProc - WM_EXITSIZEMOVE
