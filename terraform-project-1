@@ -1,0 +1,36 @@
+#main.tf
+provider "aws" {
+  region = "us-east-1"
+}
+
+resource "aws_instance" "example" {
+  ami = var.ami_value
+  instance_type = var.instance_type_value
+  subnet_id = var.subnet_id_value
+}
+resource "aws_s3_bucket" "s3_bucket" {
+  bucket = "ams1-bucket"
+}
+
+#terraform.tfvars
+ami_value="ami-0e2c8caa4b6378d8c"
+instance_type_value="t2.micro"
+subnet_id_value="subnet-0a9d6b1c9531f3d3d"
+
+#variables.tf
+variable "ami_value" {
+    description = "value for the ami"
+}
+
+variable "instance_type_value" {
+    description = "value for instance_type"
+}
+
+variable "subnet_id_value" {
+    description = "value for the subnet_id"
+}
+
+#outputs.tf
+output "public-ip-address" {
+  value = aws_instance.example.public_ip
+}
