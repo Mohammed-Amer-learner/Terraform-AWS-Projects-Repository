@@ -127,3 +127,45 @@ resource "aws_instance" "server" {
     Name = "terr_project2"
   }
 }
+
+
+Here’s a short explanation of the Terraform code:
+
+    Provider Configuration:
+        Specifies AWS as the cloud provider and the region (us-east-1) where resources will be created.
+
+    Variables:
+        Defines reusable values like the VPC CIDR block and paths for private/public SSH keys.
+
+    Key Pair:
+        Creates an AWS key pair using the public SSH key, allowing secure access to the EC2 instance.
+
+    VPC (Virtual Private Cloud):
+        Creates a private network (terr_project1) with the defined CIDR block for organizing resources.
+
+    Subnet:
+        Creates a public subnet (10.0.0.0/24) within the VPC and assigns public IPs to instances launched here.
+
+    Internet Gateway:
+        Enables internet connectivity for resources within the VPC.
+
+    Route Table and Association:
+        Configures a route to forward traffic from the public subnet to the internet via the gateway.
+
+    Security Group:
+        Creates a security group (terr_sg) to allow HTTP (port 80) and SSH (port 22) traffic from any source.
+
+    EC2 Instance:
+        Launches a t2.micro instance with a specified AMI. The instance:
+            Belongs to the public subnet and the security group.
+            Uses the generated key pair for secure access.
+
+    Provisioners:
+        File Provisioner: Copies the app.py file from the local machine to the EC2 instance.
+        Remote-Exec Provisioner: Executes commands on the instance:
+            Updates the system.
+            Installs Python packages, including Flask.
+            Runs app.py in the background, logging output to a file.
+
+    Tags:
+        Adds descriptive tags to resources for easy identification.
