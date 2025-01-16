@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-east-1"  # Replace with your desired AWS region.
+  region = "us-east-1"  
 }
 
 variable "cidr" {
@@ -7,19 +7,19 @@ variable "cidr" {
 }
 
 variable "private_key_path" {
-  default = "~/.ssh/id_rsa"  # Replace with your private key path
+  default = "~/.ssh/id_rsa"  
 }
 
 variable "public_key_path" {
-  default = "~/.ssh/id_rsa.pub"  # Replace with your public key path
+  default = "~/.ssh/id_rsa.pub"  
 }
 
 resource "aws_key_pair" "example" {
-  key_name   = "terr_project2"  # Replace with your desired key name
+  key_name   = "terr_project1"  
   public_key = file(var.public_key_path)
 }
 
-resource "aws_vpc" "terr_project2" {
+resource "aws_vpc" "terr_project1" {
   cidr_block = var.cidr
   tags = {
     Name = "terr_project1"
@@ -37,14 +37,14 @@ resource "aws_subnet" "sub1" {
 }
 
 resource "aws_internet_gateway" "igw" {
-  vpc_id = aws_vpc.terr_project2.id
+  vpc_id = aws_vpc.terr_project1.id
   tags = {
     Name = "InternetGateway"
   }
 }
 
 resource "aws_route_table" "RT" {
-  vpc_id = aws_vpc.terr_project2.id
+  vpc_id = aws_vpc.terr_project1.id
 
   route {
     cidr_block = "0.0.0.0/0"
@@ -63,7 +63,7 @@ resource "aws_route_table_association" "rta1" {
 
 resource "aws_security_group" "terr_sg" {
   name   = "terr_sg"
-  vpc_id = aws_vpc.terr_project2.id
+  vpc_id = aws_vpc.terr_project1.id
 
   ingress {
     description = "HTTP from VPC"
@@ -93,7 +93,7 @@ resource "aws_security_group" "terr_sg" {
 }
 
 resource "aws_instance" "server" {
-  ami                    = "ami-04b4f1a9cf54c11d0"
+  ami                    = "ami-0261755bbcb8c4a84"
   instance_type          = "t2.micro"
   key_name               = aws_key_pair.example.key_name
   vpc_security_group_ids = [aws_security_group.terr_sg.id]
@@ -114,12 +114,13 @@ resource "aws_instance" "server" {
 
   provisioner "remote-exec" {
     inline = [
-      "echo 'Hello from the remote instance'",
-      "sudo apt update -y || echo 'Update failed'",
-      "sudo apt-get install -y python3-pip || echo 'Package installation failed'",
-      "cd /home/ubuntu",
-      "sudo pip3 install flask || echo 'Flask installation failed'",
-      "sudo nohup python3 app.py > /home/ubuntu/app.log 2>&1 &"
+      "echo 'Starting instance setup'",
+      "sudo apt update -y",
+      "sudo apt-get install -y python3-pip python3-venv",
+      "python3 -m venv /home/ubuntu/myenv",
+      "/home/ubuntu/myenv/bin/pip install flask || echo 'Flask installation failed'",
+      "nohup /home/ubuntu/myenv/bin/python3 /home/ubuntu/app.py > /home/ubuntu/app.log 2>&1 &",
+      "echo 'Instance setup complete'"
     ]
   }
 
@@ -127,6 +128,10 @@ resource "aws_instance" "server" {
     Name = "terr_project2"
   }
 }
+
+
+
+### EC2 instance is running, now go to terminal to see if the app.py file is running, open a new tab and enter ssh -i ~/.ssh/id_rsa ubuntu@paste ec2 public ip
 
 
 Here’s a short explanation of the Terraform code:
