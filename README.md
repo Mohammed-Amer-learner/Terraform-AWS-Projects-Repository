@@ -1,2 +1,2 @@
 # Terraform-projects
-All projects on terraform will be stores in this repo
+All projects on terraform will be stored in this repo
