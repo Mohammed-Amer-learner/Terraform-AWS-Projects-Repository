@@ -34,3 +34,25 @@ variable "subnet_id_value" {
 output "public-ip-address" {
   value = aws_instance.example.public_ip
 }
+
+
+######### Project 2 same day
+provider "aws" {
+  region = "ap-south-1"
+  }
+
+resource "aws_s3_bucket" "my_bucket" {
+  bucket = "terraform-project-3"
+
+  tags = {
+    Name        = "terraform-project-3"
+    Environment = "Dev"
+  }
+}
+
+resource "aws_s3_bucket_object" "pexels_image" {
+  bucket = aws_s3_bucket.my_bucket.bucket  
+  key    = "pexels-alexant-7004697.jpg"   
+  source = "/home/mohammedamer/Downloads/pexels-alexant-7004697.jpg"  
+  acl    = "private"  # Optional: You can change this to "public-read" for public access
+}
