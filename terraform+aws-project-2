@@ -152,7 +152,7 @@ Here’s a short explanation of the Terraform code:
         Creates a public subnet (10.0.0.0/24) within the VPC and assigns public IPs to instances launched here.
 
     Internet Gateway:
-        Enables internet connectivity for resources within the VPC.
+        Enables internet connectivity for resources within the VPC..
 
     Route Table and Association:
         Configures a route to forward traffic from the public subnet to the internet via the gateway.
