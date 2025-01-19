@@ -19,9 +19,9 @@ Project 2: VPC with Public Subnet and Flask App
         Uses provisioners to deploy and run a Flask application.
     Location: https://github.com/Mohammed-Amer-learner/Terraform-AWS-Projects-Repository/blob/main/terraform%2Baws-project-2
 
-Project 3: VPC with Public and Private Subnets
+Project 3: VPC with Public and Private Subnets and fully variabilizing the code
 
-    Description: Configures a VPC with both public and private subnets, an internet gateway, and an EC2 instance running a Python Flask app and fully variabilizing the code
+    Description: Configures a VPC with both public and private subnets, an internet gateway, and an EC2 instance running a Python Flask app.
     Key Features:
         Advanced networking with public and private subnets.
         Security groups for SSH, HTTP, and HTTPS traffic.
