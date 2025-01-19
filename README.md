@@ -21,7 +21,7 @@ Project 2: VPC with Public Subnet and Flask App
 
 Project 3: VPC with Public and Private Subnets
 
-    Description: Configures a VPC with both public and private subnets, an internet gateway, and an EC2 instance running a Python Flask app. Fully variabilized.
+    Description: Configures a VPC with both public and private subnets, an internet gateway, and an EC2 instance running a Python Flask app and fully variabilizing the code
     Key Features:
         Advanced networking with public and private subnets.
         Security groups for SSH, HTTP, and HTTPS traffic.
