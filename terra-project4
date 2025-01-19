@@ -1,0 +1,178 @@
+variable "availability_zone" {
+  description = "Availability Zone"
+  default     = "us-east-1a"
+}
+
+variable "ami_value" {
+  description = "AMI ID for EC2 Instance"
+  default     = "ami-0c55b159cbfafe1f0"  # Replace with a valid AMI ID
+}
+
+variable "instance_type_value" {
+  description = "EC2 Instance Type"
+  default     = "t2.micro"
+}
+
+variable "vpc_cidr_block" {
+  description = "VPC CIDR Block"
+  default     = "10.0.0.0/16"
+}
+
+variable "subnet_public_cidr" {
+  description = "Public Subnet CIDR Block"
+  default     = "10.0.1.0/24"
+}
+
+variable "subnet_private_cidr" {
+  description = "Private Subnet CIDR Block"
+  default     = "10.0.2.0/24"
+}
+
+variable "public_key_path" {
+  description = "Path to the public key"
+  default     = "~/.ssh/id_rsa.pub"
+}
+
+variable "private_key_path" {
+  description = "Path to the private key"
+  default     = "~/.ssh/id_rsa"
+}
+
+resource "aws_key_pair" "terra_project3" {
+  key_name   = "terra_project3"
+  public_key = file(var.public_key_path)
+}
+
+resource "aws_vpc" "terra_project3" {
+  cidr_block           = var.vpc_cidr_block
+  enable_dns_support   = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "terra_project3"
+  }
+}
+
+resource "aws_subnet" "public" {
+  vpc_id                  = aws_vpc.terra_project3.id
+  cidr_block              = var.subnet_public_cidr
+  availability_zone       = var.availability_zone
+  map_public_ip_on_launch = true
+  tags = {
+    Name = "terra_public_subnet"
+  }
+}
+
+resource "aws_subnet" "private" {
+  vpc_id                  = aws_vpc.terra_project3.id
+  cidr_block              = var.subnet_private_cidr
+  availability_zone       = var.availability_zone
+  tags = {
+    Name = "terra_private_subnet"
+  }
+}
+
+resource "aws_internet_gateway" "gateway" {
+  vpc_id = aws_vpc.terra_project3.id
+  tags = {
+    Name = "terra_internet_gateway"
+  }
+}
+
+resource "aws_route_table" "public" {
+  vpc_id = aws_vpc.terra_project3.id
+  tags = {
+    Name = "terra_public_route_table"
+  }
+}
+
+resource "aws_route" "public_route" {
+  route_table_id         = aws_route_table.public.id
+  destination_cidr_block = "0.0.0.0/0"
+  gateway_id             = aws_internet_gateway.gateway.id
+}
+
+resource "aws_route_table_association" "public_association" {
+  subnet_id      = aws_subnet.public.id
+  route_table_id = aws_route_table.public.id
+}
+
+resource "aws_security_group" "allow_http_https" {
+  name        = "allow_http_https"
+  description = "Allow inbound HTTP and HTTPS traffic"
+  vpc_id      = aws_vpc.terra_project3.id
+
+  ingress {
+    from_port   = 80
+    to_port     = 80
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  ingress {
+    from_port   = 443
+    to_port     = 443
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  ingress {
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  egress {
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  tags = {
+    Name = "allow_http_https"
+  }
+}
+
+resource "aws_instance" "web_server" {
+  ami                         = var.ami_value
+  instance_type               = var.instance_type_value
+  subnet_id                   = aws_subnet.public.id
+  vpc_security_group_ids      = [aws_security_group.allow_http_https.id]
+  associate_public_ip_address = true
+  key_name                    = aws_key_pair.terra_project3.key_name
+
+  tags = {
+    Name = "terra_project3_web_server"
+  }
+
+  # File Provisioner to upload app.py
+  provisioner "file" {
+    source      = "app.py"
+    destination = "/home/ubuntu/app.py"
+
+    connection {
+      type        = "ssh"
+      user        = "ubuntu"
+      private_key = file(var.private_key_path)
+      host        = self.public_ip
+    }
+  }
+
+  # Remote Exec Provisioner to install and run the app
+  provisioner "remote-exec" {
+    inline = [
+      "sudo apt-get update -y",
+      "sudo apt-get install -y python3 python3-pip",
+      "pip3 install flask",
+      "nohup python3 /home/ubuntu/app.py &"
+    ]
+
+    connection {
+      type        = "ssh"
+      user        = "ubuntu"
+      private_key = file(var.private_key_path)
+      host        = self.public_ip
+    }
+  }
+}
