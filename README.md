@@ -26,3 +26,14 @@ Project 3: VPC with Public and Private Subnets and fully variabilizing the code
         Advanced networking with public and private subnets.
         Security groups for SSH, HTTP, and HTTPS traffic.
     Location: https://github.com/Mohammed-Amer-learner/Terraform-AWS-Projects-Repository/blob/main/terraform%2Baws-project-3
+
+Project 4: Bastion Host with Private Instance
+
+    Description: Configures a VPC with a public Bastion host and a private EC2 instance for secure SSH access.
+    Key Features:
+       Sets up a VPC with public and private subnets.
+       Security groups for Bastion host and private instance.
+       Internet Gateway and public route table for external connectivity.
+    Location: https://github.com/Mohammed-Amer-learner/Terraform-AWS-Projects-Repository/blob/main/terraform%2Baws-project-4
+Project 5: Upcoming project on Terraform Jenkins integration
+ 
