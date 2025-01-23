@@ -1,0 +1,153 @@
+#variables.tf
+variable "aws_region" {
+    description = "Region for the EC2 instance" 
+    default     = "ap-south-1"
+}
+
+variable "key_name" { 
+    description = "SSH key name to connect to the EC2 instance" 
+    default     = "terra_project5" 
+}
+
+variable "instance_type" { 
+    description = "Instance type for EC2" 
+    default     = "t2.micro" 
+}
+
+variable "security_group" { 
+    description = "Name of the security group" 
+    default     = "jenkins-sgroup" 
+}
+
+variable "ami_id" { 
+    description = "AMI for Ubuntu EC2 instance" 
+    default     = "ami-XYZ"
+}
+
+variable "acl" {
+    type        = string
+    description = "ACL for the S3 bucket (Defaults to private)"
+    default     = "private"
+}
+
+variable "tags" {
+    type        = map
+    description = "Optional mapping of tags for the bucket"
+    default     = {
+        environment = "DEV"
+        terraform   = "true"
+    }
+}
+
+#main.tf
+provider "aws" {
+  region = var.aws_region
+}
+
+resource "aws_vpc" "main" {
+  cidr_block       = "10.0.2.0/24"
+  instance_tenancy = "default"
+  tags = {
+    Name = "terra_project5"
+  }
+}
+
+resource "aws_security_group" "jenkins-sg" {
+  name        = var.security_group
+  description = "Security group for EC2 instance"
+
+  ingress {
+    from_port   = 8080
+    to_port     = 8080
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  ingress {
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  # Outbound from Jenkins server
+  egress {
+    from_port   = 0
+    to_port     = 65535
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  tags = {
+    Name = var.security_group
+  }
+}
+
+resource "aws_instance" "jenkins_EC2" {
+  ami                 = var.ami_id
+  key_name            = var.key_name
+  instance_type       = var.instance_type
+  vpc_security_group_ids = [aws_security_group.jenkins-sg.id]
+  tags = {
+    Name = "jenkins_EC2"
+  }
+}
+
+#s3.tf
+resource "aws_s3_bucket" "my-s3-bucket" {
+  bucket = "ams1-bucket-01"
+  acl           = var.acl
+
+  versioning {
+    enabled = false  #True for versioning, but as this is just a project, not enabling the versioning
+  }
+    
+  tags = var.tags
+}
+
+#backends.tf
+terraform {
+  backend "s3" {
+    bucket = "ams1-bucket-01"
+    key = "main"
+    region = "ap-south-1"
+    dynamodb_table = "ams-dynamo-db-table-tf"
+  }
+}
+
+#Jenkinsfile
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps {
+                checkout scm
+            }
+        }
+    
+        stage ("terraform init") {
+            steps {
+                sh ("terraform init -reconfigure") 
+            }
+        }
+        
+        stage ("plan") {
+            steps {
+                sh ('terraform plan') 
+            }
+        }
+
+        stage (" Action") {
+            steps {
+                echo "Terraform action is --> ${action}"
+                sh ('terraform ${action} --auto-approve') 
+           }
+        }
+    }
+}
+
+## I've already created a bucket and db table with 
+## bucket = "ams1-bucket-01", and dynamodb_table = "ams-dynamo-db-table-tf"-- Code 
+## Created a Jenkins pipeline and added parameters for actions "Apply" "Destroy"
+## Code execution was successfull. 
