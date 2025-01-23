@@ -35,5 +35,13 @@ Project 4: Bastion Host with Private Instance
        Security groups for Bastion host and private instance.
        Internet Gateway and public route table for external connectivity.
     Location: https://github.com/Mohammed-Amer-learner/Terraform-AWS-Projects-Repository/blob/main/terraform%2Baws-project-4
-Project 5: Upcoming project on Terraform Jenkins integration
- 
+
+Project 5: Jenkins-Terraform Integration for Automated Infrastructure Deployment
+
+    Description: Automates the deployment and management of AWS infrastructure (VPC, EC2, S3) using Terraform, with CI/CD integration via Jenkins.
+    Key Features:
+      Configures AWS resources such as VPC, EC2 instances, and S3 buckets using Terraform.
+      Uses an S3 backend for state management and DynamoDB for state locking.
+      Integrates Terraform with Jenkins for automated provisioning and management of infrastructure.
+      Implements a Jenkins pipeline with stages for initialization, planning, and applying infrastructure changes.
+    Location: https://github.com/Mohammed-Amer-learner/Terraform-AWS-Projects-Repository/blob/main/terraform%2Baws-project-5
